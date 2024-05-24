@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-ANGELA",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-02-ANGELA",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-ANGELA",
+        "matchId": "match-03-SEN-NED",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-04-ANGELA",
+        "matchId": "match-04-USA-WAL",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-05-ANGELA",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "ANGELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-ANGELA",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-ANGELA",
+        "matchId": "match-07-MEX-POL",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-08-ANGELA",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-ANGELA",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-10-ANGELA",
+        "matchId": "match-10-GER-JAP",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-11-ANGELA",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "ANGELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-ANGELA",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "ANGELA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-13-ANGELA",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-14-ANGELA",
+        "matchId": "match-14-URU-KOR",
+        "participant": "ANGELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-15-ANGELA",
+        "matchId": "match-15-POR-GHA",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-16-ANGELA",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-17-ANGELA",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-18-ANGELA",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-19-ANGELA",
+        "matchId": "match-19-NED-ECU",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-20-ANGELA",
+        "matchId": "match-20-ENG-USA",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-21-ANGELA",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-22-ANGELA",
+        "matchId": "match-22-POL-SAU",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-23-ANGELA",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-24-ANGELA",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-25-ANGELA",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-26-ANGELA",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "ANGELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-ANGELA",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-28-ANGELA",
+        "matchId": "match-28-ESP-GER",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-29-ANGELA",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-30-ANGELA",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-31-ANGELA",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-32-ANGELA",
+        "matchId": "match-32-POR-URU",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-33-ANGELA",
+        "matchId": "match-33-NED-QAT",
+        "participant": "ANGELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-ANGELA",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-35-ANGELA",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-36-ANGELA",
+        "matchId": "match-36-IRN-USA",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-37-ANGELA",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-38-ANGELA",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-39-ANGELA",
+        "matchId": "match-39-POL-ARG",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-40-ANGELA",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-41-ANGELA",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-42-ANGELA",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-43-ANGELA",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-44-ANGELA",
+        "matchId": "match-44-CRC-GER",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-45-ANGELA",
+        "matchId": "match-45-KOR-POR",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-46-ANGELA",
+        "matchId": "match-46-GHA-URU",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-47-ANGELA",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-48-ANGELA",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-49-ANGELA",
+        "matchId": "match-49-NED-USA",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-50-ANGELA",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-51-ANGELA",
+        "matchId": "match-51-FRA-POL",
+        "participant": "ANGELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-52-ANGELA",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-53-ANGELA",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-54-ANGELA",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-55-ANGELA",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-56-ANGELA",
+        "matchId": "match-56-POR-SUI",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-57-ANGELA",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-58-ANGELA",
+        "matchId": "match-58-NED-ARG",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-59-ANGELA",
+        "matchId": "match-59-MOR-POR",
+        "participant": "ANGELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-60-ANGELA",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "ANGELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-61-ANGELA",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-62-ANGELA",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "ANGELA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-63-ANGELA",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-ANGELA",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "ANGELA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    }
+]

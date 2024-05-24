@@ -1,0 +1,705 @@
+[
+    {
+        "id": "match-01-QAT-ECU",
+        "matchNo": 1,
+        "homeTeam": "QATAR",
+        "awayTeam": "ECUADOR",
+        "stage": "GROUP",
+        "group": "A",
+        "dateTime": "nd 20.11 17:00",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-02-ENG-IRN",
+        "matchNo": 2,
+        "homeTeam": "ENGLAND",
+        "awayTeam": "IRAN",
+        "stage": "GROUP",
+        "group": "B",
+        "dateTime": "pn 21.11 14:00",
+        "goalsFor": 6,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-03-SEN-NED",
+        "matchNo": 3,
+        "homeTeam": "SENEGAL",
+        "awayTeam": "NETHERLANDS",
+        "stage": "GROUP",
+        "group": "A",
+        "dateTime": "pn 21.11 17:00",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-04-USA-WAL",
+        "matchNo": 4,
+        "homeTeam": "UNITED_STATES",
+        "awayTeam": "WALES",
+        "stage": "GROUP",
+        "group": "B",
+        "dateTime": "pn 21.11 20:00",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+
+    {
+        "id": "match-05-ARG-SAU",
+        "matchNo": 5,
+        "homeTeam": "ARGENTINA",
+        "awayTeam": "SAUDI_ARABIA",
+        "stage": "GROUP",
+        "group": "C",
+        "dateTime": "wt 22.11 11:00",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-06-DEN-TUN",
+        "matchNo": 6,
+        "homeTeam": "DENMARK",
+        "awayTeam": "TUNISIA",
+        "stage": "GROUP",
+        "group": "D",
+        "dateTime": "wt 22.11 14:00",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-07-MEX-POL",
+        "matchNo": 7,
+        "homeTeam": "MEXICO",
+        "awayTeam": "POLAND",
+        "stage": "GROUP",
+        "group": "C",
+        "dateTime": "wt 22.11 17:00",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-08-FRA-AUS",
+        "matchNo": 8,
+        "homeTeam": "FRANCE",
+        "awayTeam": "AUSTRALIA",
+        "stage": "GROUP",
+        "group": "D",
+        "dateTime": "wt 22.11 20:00",
+        "goalsFor": 4,
+        "goalsAgainst": 1
+    },
+
+    {
+        "id": "match-09-MOR-CRO",
+        "matchNo": 9,
+        "homeTeam": "MOROCCO",
+        "awayTeam": "CROATIA",
+        "stage": "GROUP",
+        "group": "F",
+        "dateTime": "śr 23.11 11:00",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-10-GER-JAP",
+        "matchNo": 10,
+        "homeTeam": "GERMANY",
+        "awayTeam": "JAPAN",
+        "stage": "GROUP",
+        "group": "E",
+        "dateTime": "śr 23.11 14:00",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-11-ESP-CRC",
+        "matchNo": 11,
+        "homeTeam": "SPAIN",
+        "awayTeam": "COSTA_RICA",
+        "stage": "GROUP",
+        "group": "E",
+        "dateTime": "śr 23.11 17:00",
+        "goalsFor": 7,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-12-BEL-CAN",
+        "matchNo": 12,
+        "homeTeam": "BELGIUM",
+        "awayTeam": "CANADA",
+        "stage": "GROUP",
+        "group": "F",
+        "dateTime": "śr 23.11 20:00",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+
+    {
+        "id": "match-13-SUI-CAM",
+        "matchNo": 13,
+        "homeTeam": "SWITZERLAND",
+        "awayTeam": "CAMEROON",
+        "stage": "GROUP",
+        "group": "G",
+        "dateTime": "cz 24.11 11:00",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-14-URU-KOR",
+        "matchNo": 14,
+        "homeTeam": "URUGUAY",
+        "awayTeam": "SOUTH_KOREA",
+        "stage": "GROUP",
+        "group": "H",
+        "dateTime": "cz 24.11 14:00",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-15-POR-GHA",
+        "matchNo": 15,
+        "homeTeam": "PORTUGAL",
+        "awayTeam": "GHANA",
+        "stage": "GROUP",
+        "group": "H",
+        "dateTime": "cz 24.11 17:00",
+        "goalsFor": 3,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-16-BRA-SRB",
+        "matchNo": 16,
+        "homeTeam": "BRAZIL",
+        "awayTeam": "SERBIA",
+        "stage": "GROUP",
+        "group": "G",
+        "dateTime": "cz 24.11 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+
+    {
+        "id": "match-17-WAL-IRN",
+        "matchNo": 17,
+        "homeTeam": "WALES",
+        "awayTeam": "IRAN",
+        "stage": "GROUP",
+        "group": "B",
+        "dateTime": "pt 25.11 11:00",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-18-QAT-SEN",
+        "matchNo": 18,
+        "homeTeam": "QATAR",
+        "awayTeam": "SENEGAL",
+        "stage": "GROUP",
+        "group": "A",
+        "dateTime": "pt 25.11 14:00",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "match-19-NED-ECU",
+        "matchNo": 19,
+        "homeTeam": "NETHERLANDS",
+        "awayTeam": "ECUADOR",
+        "stage": "GROUP",
+        "group": "A",
+        "dateTime": "pt 25.11 17:00",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-20-ENG-USA",
+        "matchNo": 20,
+        "homeTeam": "ENGLAND",
+        "awayTeam": "UNITED_STATES",
+        "stage": "GROUP",
+        "group": "B",
+        "dateTime": "pt 25.11 20:00",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+
+    {
+        "id": "match-21-TUN-AUS",
+        "matchNo": 21,
+        "homeTeam": "TUNISIA",
+        "awayTeam": "AUSTRALIA",
+        "stage": "GROUP",
+        "group": "D",
+        "dateTime": "sb 26.11 11:00",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-22-POL-SAU",
+        "matchNo": 22,
+        "homeTeam": "POLAND",
+        "awayTeam": "SAUDI_ARABIA",
+        "stage": "GROUP",
+        "group": "C",
+        "dateTime": "sb 26.11 14:00",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-23-FRA-DEN",
+        "matchNo": 23,
+        "homeTeam": "FRANCE",
+        "awayTeam": "DENMARK",
+        "stage": "GROUP",
+        "group": "D",
+        "dateTime": "sb 26.11 17:00",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-24-ARG-MEX",
+        "matchNo": 24,
+        "homeTeam": "ARGENTINA",
+        "awayTeam": "MEXICO",
+        "stage": "GROUP",
+        "group": "C",
+        "dateTime": "sb 26.11 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+
+    {
+        "id": "match-25-JAP-CRC",
+        "matchNo": 25,
+        "homeTeam": "JAPAN",
+        "awayTeam": "COSTA_RICA",
+        "stage": "GROUP",
+        "group": "E",
+        "dateTime": "nd 27.11 11:00",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-26-BEL-MOR",
+        "matchNo": 26,
+        "homeTeam": "BELGIUM",
+        "awayTeam": "MOROCCO",
+        "stage": "GROUP",
+        "group": "F",
+        "dateTime": "nd 27.11 14:00",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-27-CRO-CAN",
+        "matchNo": 27,
+        "homeTeam": "CROATIA",
+        "awayTeam": "CANADA",
+        "stage": "GROUP",
+        "group": "F",
+        "dateTime": "nd 27.11 17:00",
+        "goalsFor": 4,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-28-ESP-GER",
+        "matchNo": 28,
+        "homeTeam": "SPAIN",
+        "awayTeam": "GERMANY",
+        "stage": "GROUP",
+        "group": "E",
+        "dateTime": "nd 27.11 20:00",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+
+    {
+        "id": "match-29-CAM-SRB",
+        "matchNo": 29,
+        "homeTeam": "CAMEROON",
+        "awayTeam": "SERBIA",
+        "stage": "GROUP",
+        "group": "G",
+        "dateTime": "pn 28.11 11:00",
+        "goalsFor": 3,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "match-30-KOR-GHA",
+        "matchNo": 30,
+        "homeTeam": "SOUTH_KOREA",
+        "awayTeam": "GHANA",
+        "stage": "GROUP",
+        "group": "H",
+        "dateTime": "pn 28.11 14:00",
+        "goalsFor": 2,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "match-31-BRA-SUI",
+        "matchNo": 31,
+        "homeTeam": "BRAZIL",
+        "awayTeam": "SWITZERLAND",
+        "stage": "GROUP",
+        "group": "G",
+        "dateTime": "pn 28.11 17:00",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-32-POR-URU",
+        "matchNo": 32,
+        "homeTeam": "PORTUGAL",
+        "awayTeam": "URUGUAY",
+        "stage": "GROUP",
+        "group": "H",
+        "dateTime": "pn 28.11 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+
+    {
+        "id": "match-33-NED-QAT",
+        "matchNo": 33,
+        "homeTeam": "NETHERLANDS",
+        "awayTeam": "QATAR",
+        "stage": "GROUP",
+        "group": "A",
+        "dateTime": "wt 29.11 16:00",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-34-ECU-SEN",
+        "matchNo": 34,
+        "homeTeam": "ECUADOR",
+        "awayTeam": "SENEGAL",
+        "stage": "GROUP",
+        "group": "A",
+        "dateTime": "wt 29.11 16:00",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-35-WAL-ENG",
+        "matchNo": 35,
+        "homeTeam": "WALES",
+        "awayTeam": "ENGLAND",
+        "stage": "GROUP",
+        "group": "B",
+        "dateTime": "wt 29.11 20:00",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "match-36-IRN-USA",
+        "matchNo": 36,
+        "homeTeam": "IRAN",
+        "awayTeam": "UNITED_STATES",
+        "stage": "GROUP",
+        "group": "B",
+        "dateTime": "wt 29.11 20:00",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+
+    {
+        "id": "match-37-TUN-FRA",
+        "matchNo": 37,
+        "homeTeam": "TUNISIA",
+        "awayTeam": "FRANCE",
+        "stage": "GROUP",
+        "group": "D",
+        "dateTime": "śr 30.11 16:00",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-38-AUS-DEN",
+        "matchNo": 38,
+        "homeTeam": "AUSTRALIA",
+        "awayTeam": "DENMARK",
+        "stage": "GROUP",
+        "group": "D",
+        "dateTime": "śr 30.11 16:00",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-39-POL-ARG",
+        "matchNo": 39,
+        "homeTeam": "POLAND",
+        "awayTeam": "ARGENTINA",
+        "stage": "GROUP",
+        "group": "C",
+        "dateTime": "śr 30.11 20:00",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-40-SAU-MEX",
+        "matchNo": 40,
+        "homeTeam": "SAUDI_ARABIA",
+        "awayTeam": "MEXICO",
+        "stage": "GROUP",
+        "group": "C",
+        "dateTime": "śr 30.11 20:00",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+
+    {
+        "id": "match-41-CRO-BEL",
+        "matchNo": 41,
+        "homeTeam": "CROATIA",
+        "awayTeam": "BELGIUM",
+        "stage": "GROUP",
+        "group": "F",
+        "dateTime": "cz 01.12 16:00",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-42-CAN-MOR",
+        "matchNo": 42,
+        "homeTeam": "CANADA",
+        "awayTeam": "MOROCCO",
+        "stage": "GROUP",
+        "group": "F",
+        "dateTime": "cz 01.12 16:00",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-43-JAP-ESP",
+        "matchNo": 43,
+        "homeTeam": "JAPAN",
+        "awayTeam": "SPAIN",
+        "stage": "GROUP",
+        "group": "E",
+        "dateTime": "cz 01.12 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-44-CRC-GER",
+        "matchNo": 44,
+        "homeTeam": "COSTA_RICA",
+        "awayTeam": "GERMANY",
+        "stage": "GROUP",
+        "group": "E",
+        "dateTime": "cz 01.12 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 4
+    },
+
+    {
+        "id": "match-45-KOR-POR",
+        "matchNo": 45,
+        "homeTeam": "SOUTH_KOREA",
+        "awayTeam": "PORTUGAL",
+        "stage": "GROUP",
+        "group": "H",
+        "dateTime": "pt 02.12 16:00",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-46-GHA-URU",
+        "matchNo": 46,
+        "homeTeam": "GHANA",
+        "awayTeam": "URUGUAY",
+        "stage": "GROUP",
+        "group": "H",
+        "dateTime": "pt 02.12 16:00",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-47-CAM-BRA",
+        "matchNo": 47,
+        "homeTeam": "CAMEROON",
+        "awayTeam": "BRAZIL",
+        "stage": "GROUP",
+        "group": "G",
+        "dateTime": "pt 02.12 20:00",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-48-SRB-SUI",
+        "matchNo": 48,
+        "homeTeam": "SERBIA",
+        "awayTeam": "SWITZERLAND",
+        "stage": "GROUP",
+        "group": "G",
+        "dateTime": "pt 02.12 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 3
+    },
+
+    {
+        "id": "match-49-NED-USA",
+        "matchNo": 49,
+        "homeTeam": "NETHERLANDS",
+        "awayTeam": "UNITED_STATES",
+        "stage": "ROUND_OF_16",
+        "dateTime": "sb 03.12 16:00",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-50-ARG-AUS",
+        "matchNo": 50,
+        "homeTeam": "ARGENTINA",
+        "awayTeam": "AUSTRALIA",
+        "stage": "ROUND_OF_16",
+        "dateTime": "sb 03.12 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-51-FRA-POL",
+        "matchNo": 51,
+        "homeTeam": "FRANCE",
+        "awayTeam": "POLAND",
+        "stage": "ROUND_OF_16",
+        "dateTime": "nd 04.12 16:00",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-52-ENG-SEN",
+        "matchNo": 52,
+        "homeTeam": "ENGLAND",
+        "awayTeam": "SENEGAL",
+        "stage": "ROUND_OF_16",
+        "dateTime": "nd 04.12 20:00",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-53-JAP-CRO",
+        "matchNo": 53,
+        "homeTeam": "JAPAN",
+        "awayTeam": "CROATIA",
+        "stage": "ROUND_OF_16",
+        "dateTime": "pn 05.12 16:00",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-54-BRA-KOR",
+        "matchNo": 54,
+        "homeTeam": "BRAZIL",
+        "awayTeam": "SOUTH_KOREA",
+        "stage": "ROUND_OF_16",
+        "dateTime": "pn 05.12 20:00",
+        "goalsFor": 4,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-55-MOR-ESP",
+        "matchNo": 55,
+        "homeTeam": "MOROCCO",
+        "awayTeam": "SPAIN",
+        "stage": "ROUND_OF_16",
+        "dateTime": "wt 06.12 16:00",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-56-POR-SUI",
+        "matchNo": 56,
+        "homeTeam": "PORTUGAL",
+        "awayTeam": "SWITZERLAND",
+        "stage": "ROUND_OF_16",
+        "dateTime": "wt 06.12 20:00",
+        "goalsFor": 6,
+        "goalsAgainst": 1
+    },
+
+    {
+        "id": "match-57-CRO-BRA",
+        "matchNo": 57,
+        "homeTeam": "CROATIA",
+        "awayTeam": "BRAZIL",
+        "stage": "QUARTER",
+        "dateTime": "pt 09.12 16:00",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-58-NED-ARG",
+        "matchNo": 58,
+        "homeTeam": "NETHERLANDS",
+        "awayTeam": "ARGENTINA",
+        "stage": "QUARTER",
+        "dateTime": "pt 09.12 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "match-59-MOR-POR",
+        "matchNo": 59,
+        "homeTeam": "MOROCCO",
+        "awayTeam": "PORTUGAL",
+        "stage": "QUARTER",
+        "dateTime": "sb 10.12 16:00",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-60-ENG-FRA",
+        "matchNo": 60,
+        "homeTeam": "ENGLAND",
+        "awayTeam": "FRANCE",
+        "stage": "QUARTER",
+        "dateTime": "sb 10.12 20:00",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+
+    {
+        "id": "match-61-ARG-CRO",
+        "matchNo": 61,
+        "homeTeam": "ARGENTINA",
+        "awayTeam": "CROATIA",
+        "stage": "SEMI",
+        "dateTime": "wt 13.12 20:00",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "match-62-FRA-MOR",
+        "matchNo": 62,
+        "homeTeam": "FRANCE",
+        "awayTeam": "MOROCCO",
+        "stage": "SEMI",
+        "dateTime": "śr 14.12 20:00",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+
+    {
+        "id": "match-63-CRO-MOR",
+        "matchNo": 63,
+        "homeTeam": "CROATIA",
+        "awayTeam": "MOROCCO",
+        "stage": "THIRD",
+        "dateTime": "sb 17.12 16:00",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "match-64-ARG-FRA",
+        "matchNo": 64,
+        "homeTeam": "ARGENTINA",
+        "awayTeam": "FRANCE",
+        "stage": "FINAL",
+        "dateTime": "nd 18.12 16:00",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    }
+]
