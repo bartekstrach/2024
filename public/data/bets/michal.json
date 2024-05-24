@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-MICHAL",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-02-MICHAL",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-MICHAL",
+        "matchId": "match-03-SEN-NED",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-04-MICHAL",
+        "matchId": "match-04-USA-WAL",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-05-MICHAL",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "MICHAL",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-MICHAL",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-MICHAL",
+        "matchId": "match-07-MEX-POL",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-08-MICHAL",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-MICHAL",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-10-MICHAL",
+        "matchId": "match-10-GER-JAP",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-11-MICHAL",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "MICHAL",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-MICHAL",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-13-MICHAL",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-14-MICHAL",
+        "matchId": "match-14-URU-KOR",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-15-MICHAL",
+        "matchId": "match-15-POR-GHA",
+        "participant": "MICHAL",
+        "goalsFor": 4,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-16-MICHAL",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-17-MICHAL",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-18-MICHAL",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-19-MICHAL",
+        "matchId": "match-19-NED-ECU",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-20-MICHAL",
+        "matchId": "match-20-ENG-USA",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-21-MICHAL",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-22-MICHAL",
+        "matchId": "match-22-POL-SAU",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-23-MICHAL",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-24-MICHAL",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-25-MICHAL",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-26-MICHAL",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-MICHAL",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-28-MICHAL",
+        "matchId": "match-28-ESP-GER",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-29-MICHAL",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-30-MICHAL",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-31-MICHAL",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-32-MICHAL",
+        "matchId": "match-32-POR-URU",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-33-MICHAL",
+        "matchId": "match-33-NED-QAT",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-MICHAL",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-35-MICHAL",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-36-MICHAL",
+        "matchId": "match-36-IRN-USA",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-37-MICHAL",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-38-MICHAL",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-39-MICHAL",
+        "matchId": "match-39-POL-ARG",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-40-MICHAL",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-41-MICHAL",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-42-MICHAL",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-43-MICHAL",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-44-MICHAL",
+        "matchId": "match-44-CRC-GER",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-45-MICHAL",
+        "matchId": "match-45-KOR-POR",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-46-MICHAL",
+        "matchId": "match-46-GHA-URU",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-47-MICHAL",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "MICHAL",
+        "goalsFor": 0,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-48-MICHAL",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-49-MICHAL",
+        "matchId": "match-49-NED-USA",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-50-MICHAL",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-51-MICHAL",
+        "matchId": "match-51-FRA-POL",
+        "participant": "MICHAL",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-52-MICHAL",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-53-MICHAL",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-54-MICHAL",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-55-MICHAL",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-56-MICHAL",
+        "matchId": "match-56-POR-SUI",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-57-MICHAL",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-58-MICHAL",
+        "matchId": "match-58-NED-ARG",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-59-MICHAL",
+        "matchId": "match-59-MOR-POR",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-60-MICHAL",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-61-MICHAL",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "MICHAL",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-62-MICHAL",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-63-MICHAL",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-MICHAL",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "MICHAL",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    }
+]

@@ -1,0 +1,106 @@
+* {
+  font-size: 14px;
+  color: #2d2d2d;
+  font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+
+html {
+  padding: 12px;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+h2 {
+  font-size: large;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.link-to-drive {
+  margin: 8px 0;
+}
+
+.sticky-col {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: #ffd580;
+  }
+}
+
+tr {
+  background-color: #eee;
+}
+
+tr:nth-child(even) {
+  background-color: #fff;
+}
+
+thead > tr {
+  background-color: #fff;
+}
+
+.center {
+  text-align: center;
+}
+
+.scoreboard {
+  width: 100%;
+  max-width: 1000px;
+
+  >td {
+    text-align: center;
+  }
+}
+
+.matrix {
+  th {
+    text-align: center;
+  }
+
+  .match {
+    span {
+      padding: 0 4px;
+    }
+  }
+
+  tr {
+    .final-score {
+      background-color: #ccebeb;
+    }
+  }
+  
+  tr:nth-child(even) {
+    .final-score {
+      background-color: #e0ffff;
+    }
+  }
+
+  .bet {
+    text-align: center;
+    min-width: 70px;
+    padding: 8px;
+    
+    .score {
+      padding-right: 10px;
+    }
+
+    .points {
+      padding-left: 10px;
+      border-left: 1px solid #ddd;
+    }
+  }
+}

@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-MAGDA",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-02-MAGDA",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-MAGDA",
+        "matchId": "match-03-SEN-NED",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-04-MAGDA",
+        "matchId": "match-04-USA-WAL",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-05-MAGDA",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "MAGDA",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-MAGDA",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-MAGDA",
+        "matchId": "match-07-MEX-POL",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-08-MAGDA",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-MAGDA",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-10-MAGDA",
+        "matchId": "match-10-GER-JAP",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-11-MAGDA",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-MAGDA",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-13-MAGDA",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-14-MAGDA",
+        "matchId": "match-14-URU-KOR",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-15-MAGDA",
+        "matchId": "match-15-POR-GHA",
+        "participant": "MAGDA",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-16-MAGDA",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-17-MAGDA",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-18-MAGDA",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-19-MAGDA",
+        "matchId": "match-19-NED-ECU",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-20-MAGDA",
+        "matchId": "match-20-ENG-USA",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-21-MAGDA",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-22-MAGDA",
+        "matchId": "match-22-POL-SAU",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-23-MAGDA",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-24-MAGDA",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-25-MAGDA",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-26-MAGDA",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-MAGDA",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-28-MAGDA",
+        "matchId": "match-28-ESP-GER",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-29-MAGDA",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-30-MAGDA",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-31-MAGDA",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-32-MAGDA",
+        "matchId": "match-32-POR-URU",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-33-MAGDA",
+        "matchId": "match-33-NED-QAT",
+        "participant": "MAGDA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-MAGDA",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-35-MAGDA",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-36-MAGDA",
+        "matchId": "match-36-IRN-USA",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-37-MAGDA",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-38-MAGDA",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-39-MAGDA",
+        "matchId": "match-39-POL-ARG",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-40-MAGDA",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-41-MAGDA",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-42-MAGDA",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-43-MAGDA",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-44-MAGDA",
+        "matchId": "match-44-CRC-GER",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-45-MAGDA",
+        "matchId": "match-45-KOR-POR",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-46-MAGDA",
+        "matchId": "match-46-GHA-URU",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-47-MAGDA",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-48-MAGDA",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-49-MAGDA",
+        "matchId": "match-49-NED-USA",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-50-MAGDA",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "MAGDA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-51-MAGDA",
+        "matchId": "match-51-FRA-POL",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-52-MAGDA",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-53-MAGDA",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-54-MAGDA",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-55-MAGDA",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "MAGDA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-56-MAGDA",
+        "matchId": "match-56-POR-SUI",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-57-MAGDA",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-58-MAGDA",
+        "matchId": "match-58-NED-ARG",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-59-MAGDA",
+        "matchId": "match-59-MOR-POR",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-60-MAGDA",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-61-MAGDA",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-62-MAGDA",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-63-MAGDA",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-MAGDA",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "MAGDA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    }
+]
