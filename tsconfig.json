@@ -1,14 +1,14 @@
 {
     "compilerOptions": {
         "paths": {
-            "@components": ["./client/components"],
-            "@components/*": ["./client/components/*"],
-            "@enums": ["./client/enums"],
-            "@enums/*": ["./client/enums/*"],
-            "@types": ["./client/types"],
-            "@types/*": ["./client/types/*"],
-            "@utils": ["./client/utils"],
-            "@utils/*": ["./client/utils/*"],
+            "@components": ["src/components"],
+            "@components/*": ["src/components/*"],
+            "@enums": ["src/enums"],
+            "@enums/*": ["src/enums/*"],
+            "@types": ["src/types"],
+            "@types/*": ["src/types/*"],
+            "@utils": ["src/utils"],
+            "@utils/*": ["src/utils/*"],
         },
         "esModuleInterop": true,
         "jsx": "react",

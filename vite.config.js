@@ -39,10 +39,10 @@ export default defineConfig({
     resolve: {
         alias: {
             '@assets': resolve(process.cwd(), 'assets'), // Use resolve with current working directory
-            '@components': resolve(process.cwd(), 'client/components'),
-            '@enums': resolve(process.cwd(), 'client/enums'),
-            '@types': resolve(process.cwd(), 'client/types'),
-            '@utils': resolve(process.cwd(), 'client/utils'),
+            '@components': resolve(process.cwd(), 'src/components'),
+            '@enums': resolve(process.cwd(), 'src/enums'),
+            '@types': resolve(process.cwd(), 'src/types'),
+            '@utils': resolve(process.cwd(), 'src/utils'),
         },
     },
 });
