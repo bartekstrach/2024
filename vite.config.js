@@ -24,6 +24,7 @@ export default defineConfig({
         'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'development'),
     },
     root: process.cwd(), // Use the current working directory as root
+    base: '/2024/',
     publicDir: 'static',
     build: {
         outDir: 'public',
