@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-BARTEK",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-02-BARTEK",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-BARTEK",
+        "matchId": "match-03-SEN-NED",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-04-BARTEK",
+        "matchId": "match-04-USA-WAL",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-05-BARTEK",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-BARTEK",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-BARTEK",
+        "matchId": "match-07-MEX-POL",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-08-BARTEK",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-BARTEK",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-10-BARTEK",
+        "matchId": "match-10-GER-JAP",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-11-BARTEK",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-BARTEK",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-13-BARTEK",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-14-BARTEK",
+        "matchId": "match-14-URU-KOR",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-15-BARTEK",
+        "matchId": "match-15-POR-GHA",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-16-BARTEK",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-17-BARTEK",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-18-BARTEK",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-19-BARTEK",
+        "matchId": "match-19-NED-ECU",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-20-BARTEK",
+        "matchId": "match-20-ENG-USA",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-21-BARTEK",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-22-BARTEK",
+        "matchId": "match-22-POL-SAU",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-23-BARTEK",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-24-BARTEK",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-25-BARTEK",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-26-BARTEK",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-27-BARTEK",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-28-BARTEK",
+        "matchId": "match-28-ESP-GER",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-29-BARTEK",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-30-BARTEK",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-31-BARTEK",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "BARTEK",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-32-BARTEK",
+        "matchId": "match-32-POR-URU",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-33-BARTEK",
+        "matchId": "match-33-NED-QAT",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-BARTEK",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-35-BARTEK",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-36-BARTEK",
+        "matchId": "match-36-IRN-USA",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-37-BARTEK",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-38-BARTEK",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-39-BARTEK",
+        "matchId": "match-39-POL-ARG",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-40-BARTEK",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-41-BARTEK",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-42-BARTEK",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-43-BARTEK",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-44-BARTEK",
+        "matchId": "match-44-CRC-GER",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-45-BARTEK",
+        "matchId": "match-45-KOR-POR",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-46-BARTEK",
+        "matchId": "match-46-GHA-URU",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-47-BARTEK",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-48-BARTEK",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-49-BARTEK",
+        "matchId": "match-49-NED-USA",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-50-BARTEK",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-51-BARTEK",
+        "matchId": "match-51-FRA-POL",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-52-BARTEK",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-53-BARTEK",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-54-BARTEK",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-55-BARTEK",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-56-BARTEK",
+        "matchId": "match-56-POR-SUI",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-57-BARTEK",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-58-BARTEK",
+        "matchId": "match-58-NED-ARG",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-59-BARTEK",
+        "matchId": "match-59-MOR-POR",
+        "participant": "BARTEK",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-60-BARTEK",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-61-BARTEK",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-62-BARTEK",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "BARTEK",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-63-BARTEK",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-BARTEK",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "BARTEK",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    }
+]

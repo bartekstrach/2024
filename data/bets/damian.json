@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-DAMIAN",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-02-DAMIAN",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-DAMIAN",
+        "matchId": "match-03-SEN-NED",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-04-DAMIAN",
+        "matchId": "match-04-USA-WAL",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-05-DAMIAN",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "DAMIAN",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-DAMIAN",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-DAMIAN",
+        "matchId": "match-07-MEX-POL",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-08-DAMIAN",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-DAMIAN",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-10-DAMIAN",
+        "matchId": "match-10-GER-JAP",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-11-DAMIAN",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-DAMIAN",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-13-DAMIAN",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-14-DAMIAN",
+        "matchId": "match-14-URU-KOR",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-15-DAMIAN",
+        "matchId": "match-15-POR-GHA",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-16-DAMIAN",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "DAMIAN",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-17-DAMIAN",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-18-DAMIAN",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-19-DAMIAN",
+        "matchId": "match-19-NED-ECU",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-20-DAMIAN",
+        "matchId": "match-20-ENG-USA",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-21-DAMIAN",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-22-DAMIAN",
+        "matchId": "match-22-POL-SAU",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-23-DAMIAN",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-24-DAMIAN",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-25-DAMIAN",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-26-DAMIAN",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "DAMIAN",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-DAMIAN",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "DAMIAN",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-28-DAMIAN",
+        "matchId": "match-28-ESP-GER",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-29-DAMIAN",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-30-DAMIAN",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-31-DAMIAN",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-32-DAMIAN",
+        "matchId": "match-32-POR-URU",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-33-DAMIAN",
+        "matchId": "match-33-NED-QAT",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-DAMIAN",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-35-DAMIAN",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-36-DAMIAN",
+        "matchId": "match-36-IRN-USA",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-37-DAMIAN",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-38-DAMIAN",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-39-DAMIAN",
+        "matchId": "match-39-POL-ARG",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-40-DAMIAN",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-41-DAMIAN",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-42-DAMIAN",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-43-DAMIAN",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-44-DAMIAN",
+        "matchId": "match-44-CRC-GER",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-45-DAMIAN",
+        "matchId": "match-45-KOR-POR",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-46-DAMIAN",
+        "matchId": "match-46-GHA-URU",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-47-DAMIAN",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-48-DAMIAN",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-49-DAMIAN",
+        "matchId": "match-49-NED-USA",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-50-DAMIAN",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-51-DAMIAN",
+        "matchId": "match-51-FRA-POL",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-52-DAMIAN",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-53-DAMIAN",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-54-DAMIAN",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-55-DAMIAN",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-56-DAMIAN",
+        "matchId": "match-56-POR-SUI",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-57-DAMIAN",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-58-DAMIAN",
+        "matchId": "match-58-NED-ARG",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-59-DAMIAN",
+        "matchId": "match-59-MOR-POR",
+        "participant": "DAMIAN",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-60-DAMIAN",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-61-DAMIAN",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-62-DAMIAN",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "DAMIAN",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-63-DAMIAN",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-DAMIAN",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "DAMIAN",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    }
+]

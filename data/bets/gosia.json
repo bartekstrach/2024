@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-GOSIA",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-02-GOSIA",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-03-GOSIA",
+        "matchId": "match-03-SEN-NED",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-04-GOSIA",
+        "matchId": "match-04-USA-WAL",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-05-GOSIA",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "GOSIA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-GOSIA",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-GOSIA",
+        "matchId": "match-07-MEX-POL",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-08-GOSIA",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-GOSIA",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-10-GOSIA",
+        "matchId": "match-10-GER-JAP",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-11-GOSIA",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-GOSIA",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-13-GOSIA",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-14-GOSIA",
+        "matchId": "match-14-URU-KOR",
+        "participant": "GOSIA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-15-GOSIA",
+        "matchId": "match-15-POR-GHA",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-16-GOSIA",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-17-GOSIA",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-18-GOSIA",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-19-GOSIA",
+        "matchId": "match-19-NED-ECU",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-20-GOSIA",
+        "matchId": "match-20-ENG-USA",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-21-GOSIA",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-22-GOSIA",
+        "matchId": "match-22-POL-SAU",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-23-GOSIA",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-24-GOSIA",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-25-GOSIA",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-26-GOSIA",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-GOSIA",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-28-GOSIA",
+        "matchId": "match-28-ESP-GER",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-29-GOSIA",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-30-GOSIA",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-31-GOSIA",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-32-GOSIA",
+        "matchId": "match-32-POR-URU",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-33-GOSIA",
+        "matchId": "match-33-NED-QAT",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-GOSIA",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-35-GOSIA",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-36-GOSIA",
+        "matchId": "match-36-IRN-USA",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-37-GOSIA",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-38-GOSIA",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-39-GOSIA",
+        "matchId": "match-39-POL-ARG",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-40-GOSIA",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-41-GOSIA",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-42-GOSIA",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-43-GOSIA",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-44-GOSIA",
+        "matchId": "match-44-CRC-GER",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-45-GOSIA",
+        "matchId": "match-45-KOR-POR",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-46-GOSIA",
+        "matchId": "match-46-GHA-URU",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-47-GOSIA",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-48-GOSIA",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-49-GOSIA",
+        "matchId": "match-49-NED-USA",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-50-GOSIA",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-51-GOSIA",
+        "matchId": "match-51-FRA-POL",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-52-GOSIA",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-53-GOSIA",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-54-GOSIA",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-55-GOSIA",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-56-GOSIA",
+        "matchId": "match-56-POR-SUI",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-57-GOSIA",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-58-GOSIA",
+        "matchId": "match-58-NED-ARG",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-59-GOSIA",
+        "matchId": "match-59-MOR-POR",
+        "participant": "GOSIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-60-GOSIA",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-61-GOSIA",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-62-GOSIA",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "GOSIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-63-GOSIA",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-GOSIA",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "GOSIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    }
+]

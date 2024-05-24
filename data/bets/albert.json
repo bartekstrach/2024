@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-ALBERT",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-02-ALBERT",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "ALBERT",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-ALBERT",
+        "matchId": "match-03-SEN-NED",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-04-ALBERT",
+        "matchId": "match-04-USA-WAL",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-05-ALBERT",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-ALBERT",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "ALBERT",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-ALBERT",
+        "matchId": "match-07-MEX-POL",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-08-ALBERT",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-09-ALBERT",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-10-ALBERT",
+        "matchId": "match-10-GER-JAP",
+        "participant": "ALBERT",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-11-ALBERT",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-ALBERT",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-13-ALBERT",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-14-ALBERT",
+        "matchId": "match-14-URU-KOR",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-15-ALBERT",
+        "matchId": "match-15-POR-GHA",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-16-ALBERT",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-17-ALBERT",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-18-ALBERT",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-19-ALBERT",
+        "matchId": "match-19-NED-ECU",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-20-ALBERT",
+        "matchId": "match-20-ENG-USA",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-21-ALBERT",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-22-ALBERT",
+        "matchId": "match-22-POL-SAU",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-23-ALBERT",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-24-ALBERT",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-25-ALBERT",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-26-ALBERT",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-ALBERT",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-28-ALBERT",
+        "matchId": "match-28-ESP-GER",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-29-ALBERT",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-30-ALBERT",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-31-ALBERT",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "ALBERT",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-32-ALBERT",
+        "matchId": "match-32-POR-URU",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-33-ALBERT",
+        "matchId": "match-33-NED-QAT",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-ALBERT",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-35-ALBERT",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-36-ALBERT",
+        "matchId": "match-36-IRN-USA",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-37-ALBERT",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-38-ALBERT",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-39-ALBERT",
+        "matchId": "match-39-POL-ARG",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-40-ALBERT",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-41-ALBERT",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-42-ALBERT",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-43-ALBERT",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-44-ALBERT",
+        "matchId": "match-44-CRC-GER",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-45-ALBERT",
+        "matchId": "match-45-KOR-POR",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-46-ALBERT",
+        "matchId": "match-46-GHA-URU",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-47-ALBERT",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-48-ALBERT",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-49-ALBERT",
+        "matchId": "match-49-NED-USA",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-50-ALBERT",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-51-ALBERT",
+        "matchId": "match-51-FRA-POL",
+        "participant": "ALBERT",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-52-ALBERT",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-53-ALBERT",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-54-ALBERT",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-55-ALBERT",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "ALBERT",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-56-ALBERT",
+        "matchId": "match-56-POR-SUI",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-57-ALBERT",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-58-ALBERT",
+        "matchId": "match-58-NED-ARG",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-59-ALBERT",
+        "matchId": "match-59-MOR-POR",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-60-ALBERT",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-61-ALBERT",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-62-ALBERT",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-63-ALBERT",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "ALBERT",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-64-ALBERT",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "ALBERT",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    }
+]

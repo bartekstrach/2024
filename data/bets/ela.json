@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-ELA",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-02-ELA",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-ELA",
+        "matchId": "match-03-SEN-NED",
+        "participant": "ELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-04-ELA",
+        "matchId": "match-04-USA-WAL",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-05-ELA",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-ELA",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-ELA",
+        "matchId": "match-07-MEX-POL",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-08-ELA",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "ELA",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-ELA",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "ELA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-10-ELA",
+        "matchId": "match-10-GER-JAP",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-11-ELA",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-12-ELA",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-13-ELA",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-14-ELA",
+        "matchId": "match-14-URU-KOR",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-15-ELA",
+        "matchId": "match-15-POR-GHA",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-16-ELA",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-17-ELA",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-18-ELA",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-19-ELA",
+        "matchId": "match-19-NED-ECU",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-20-ELA",
+        "matchId": "match-20-ENG-USA",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-21-ELA",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-22-ELA",
+        "matchId": "match-22-POL-SAU",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-23-ELA",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-24-ELA",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-25-ELA",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-26-ELA",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-ELA",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-28-ELA",
+        "matchId": "match-28-ESP-GER",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-29-ELA",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-30-ELA",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-31-ELA",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-32-ELA",
+        "matchId": "match-32-POR-URU",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-33-ELA",
+        "matchId": "match-33-NED-QAT",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-ELA",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-35-ELA",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-36-ELA",
+        "matchId": "match-36-IRN-USA",
+        "participant": "ELA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-37-ELA",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-38-ELA",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-39-ELA",
+        "matchId": "match-39-POL-ARG",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-40-ELA",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "ELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-41-ELA",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-42-ELA",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-43-ELA",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-44-ELA",
+        "matchId": "match-44-CRC-GER",
+        "participant": "ELA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-45-ELA",
+        "matchId": "match-45-KOR-POR",
+        "participant": "ELA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-46-ELA",
+        "matchId": "match-46-GHA-URU",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-47-ELA",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-48-ELA",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-49-ELA",
+        "matchId": "match-49-NED-USA",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-50-ELA",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-51-ELA",
+        "matchId": "match-51-FRA-POL",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-52-ELA",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-53-ELA",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-54-ELA",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-55-ELA",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "ELA",
+        "goalsFor": 0,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-56-ELA",
+        "matchId": "match-56-POR-SUI",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-57-ELA",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-58-ELA",
+        "matchId": "match-58-NED-ARG",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-59-ELA",
+        "matchId": "match-59-MOR-POR",
+        "participant": "ELA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-60-ELA",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-61-ELA",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-62-ELA",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "ELA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-63-ELA",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "ELA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-64-ELA",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "ELA",
+        "goalsFor": 3,
+        "goalsAgainst": 2
+    }
+]

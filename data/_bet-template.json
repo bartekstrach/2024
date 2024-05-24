@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-02-",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-03-",
+        "matchId": "match-03-SEN-NED",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-04-",
+        "matchId": "match-04-USA-WAL",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-05-",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-06-",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-07-",
+        "matchId": "match-07-MEX-POL",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-08-",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-09-",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-10-",
+        "matchId": "match-10-GER-JAP",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-11-",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-12-",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-13-",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-14-",
+        "matchId": "match-14-URU-KOR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-15-",
+        "matchId": "match-15-POR-GHA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-16-",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-17-",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-18-",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-19-",
+        "matchId": "match-19-NED-ECU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-20-",
+        "matchId": "match-20-ENG-USA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-21-",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-22-",
+        "matchId": "match-22-POL-SAU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-23-",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-24-",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-25-",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-26-",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-27-",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-28-",
+        "matchId": "match-28-ESP-GER",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-29-",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-30-",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-31-",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-32-",
+        "matchId": "match-32-POR-URU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-33-",
+        "matchId": "match-33-NED-QAT",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-34-",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-35-",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-36-",
+        "matchId": "match-36-IRN-USA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-37-",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-38-",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-39-",
+        "matchId": "match-39-POL-ARG",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-40-",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-41-",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-42-",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-43-",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-44-",
+        "matchId": "match-44-CRC-GER",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-45-",
+        "matchId": "match-45-KOR-POR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-46-",
+        "matchId": "match-46-GHA-URU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-47-",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-48-",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-49-",
+        "matchId": "match-49-NED-USA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-50-",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-51-",
+        "matchId": "match-51-FRA-POL",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-52-",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-53-",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-54-",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-55-",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-56-",
+        "matchId": "match-56-POR-SUI",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-57-",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-58-",
+        "matchId": "match-58-NED-ARG",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-59-",
+        "matchId": "match-59-MOR-POR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-60-",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-61-",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-62-",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-63-",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    },
+    {
+        "id": "bet-64-",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
+    }
+]

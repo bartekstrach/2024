@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-ADAM",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-02-ADAM",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-ADAM",
+        "matchId": "match-03-SEN-NED",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-04-ADAM",
+        "matchId": "match-04-USA-WAL",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-05-ADAM",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "ADAM",
+        "goalsFor": 5,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-ADAM",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "ADAM",
+        "goalsFor": 4,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-07-ADAM",
+        "matchId": "match-07-MEX-POL",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-08-ADAM",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "ADAM",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-ADAM",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "ADAM",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-10-ADAM",
+        "matchId": "match-10-GER-JAP",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-11-ADAM",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "ADAM",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-ADAM",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-13-ADAM",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-14-ADAM",
+        "matchId": "match-14-URU-KOR",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-15-ADAM",
+        "matchId": "match-15-POR-GHA",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-16-ADAM",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "ADAM",
+        "goalsFor": 4,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-17-ADAM",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-18-ADAM",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "ADAM",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-19-ADAM",
+        "matchId": "match-19-NED-ECU",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-20-ADAM",
+        "matchId": "match-20-ENG-USA",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-21-ADAM",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-22-ADAM",
+        "matchId": "match-22-POL-SAU",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-23-ADAM",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-24-ADAM",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-25-ADAM",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-26-ADAM",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-ADAM",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-28-ADAM",
+        "matchId": "match-28-ESP-GER",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-29-ADAM",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-30-ADAM",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "ADAM",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-31-ADAM",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-32-ADAM",
+        "matchId": "match-32-POR-URU",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-33-ADAM",
+        "matchId": "match-33-NED-QAT",
+        "participant": "ADAM",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-ADAM",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "ADAM",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-35-ADAM",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-36-ADAM",
+        "matchId": "match-36-IRN-USA",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-37-ADAM",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "ADAM",
+        "goalsFor": 0,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-38-ADAM",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-39-ADAM",
+        "matchId": "match-39-POL-ARG",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-40-ADAM",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-41-ADAM",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-42-ADAM",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-43-ADAM",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-44-ADAM",
+        "matchId": "match-44-CRC-GER",
+        "participant": "ADAM",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-45-ADAM",
+        "matchId": "match-45-KOR-POR",
+        "participant": "ADAM",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-46-ADAM",
+        "matchId": "match-46-GHA-URU",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-47-ADAM",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-48-ADAM",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-49-ADAM",
+        "matchId": "match-49-NED-USA",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-50-ADAM",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-51-ADAM",
+        "matchId": "match-51-FRA-POL",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-52-ADAM",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-53-ADAM",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-54-ADAM",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-55-ADAM",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-56-ADAM",
+        "matchId": "match-56-POR-SUI",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-57-ADAM",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-58-ADAM",
+        "matchId": "match-58-NED-ARG",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-59-ADAM",
+        "matchId": "match-59-MOR-POR",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-60-ADAM",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-61-ADAM",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-62-ADAM",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "ADAM",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-63-ADAM",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "ADAM",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-ADAM",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "ADAM",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    }
+]

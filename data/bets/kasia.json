@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-KASIA",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-02-KASIA",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-03-KASIA",
+        "matchId": "match-03-SEN-NED",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-04-KASIA",
+        "matchId": "match-04-USA-WAL",
+        "participant": "KASIA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-05-KASIA",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "KASIA",
+        "goalsFor": 4,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-06-KASIA",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-07-KASIA",
+        "matchId": "match-07-MEX-POL",
+        "participant": "KASIA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-08-KASIA",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "KASIA",
+        "goalsFor": 4,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-KASIA",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-10-KASIA",
+        "matchId": "match-10-GER-JAP",
+        "participant": "KASIA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-11-KASIA",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-12-KASIA",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-13-KASIA",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-14-KASIA",
+        "matchId": "match-14-URU-KOR",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-15-KASIA",
+        "matchId": "match-15-POR-GHA",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-16-KASIA",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "KASIA",
+        "goalsFor": 5,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-17-KASIA",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-18-KASIA",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-19-KASIA",
+        "matchId": "match-19-NED-ECU",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-20-KASIA",
+        "matchId": "match-20-ENG-USA",
+        "participant": "KASIA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-21-KASIA",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-22-KASIA",
+        "matchId": "match-22-POL-SAU",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-23-KASIA",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-24-KASIA",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-25-KASIA",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-26-KASIA",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-27-KASIA",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-28-KASIA",
+        "matchId": "match-28-ESP-GER",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-29-KASIA",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-30-KASIA",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-31-KASIA",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-32-KASIA",
+        "matchId": "match-32-POR-URU",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-33-KASIA",
+        "matchId": "match-33-NED-QAT",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-34-KASIA",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-35-KASIA",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-36-KASIA",
+        "matchId": "match-36-IRN-USA",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-37-KASIA",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-38-KASIA",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-39-KASIA",
+        "matchId": "match-39-POL-ARG",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 5
+    },
+    {
+        "id": "bet-40-KASIA",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-41-KASIA",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-42-KASIA",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-43-KASIA",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-44-KASIA",
+        "matchId": "match-44-CRC-GER",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 4
+    },
+    {
+        "id": "bet-45-KASIA",
+        "matchId": "match-45-KOR-POR",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-46-KASIA",
+        "matchId": "match-46-GHA-URU",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-47-KASIA",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-48-KASIA",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-49-KASIA",
+        "matchId": "match-49-NED-USA",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-50-KASIA",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-51-KASIA",
+        "matchId": "match-51-FRA-POL",
+        "participant": "KASIA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-52-KASIA",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-53-KASIA",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-54-KASIA",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-55-KASIA",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-56-KASIA",
+        "matchId": "match-56-POR-SUI",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-57-KASIA",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-58-KASIA",
+        "matchId": "match-58-NED-ARG",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-59-KASIA",
+        "matchId": "match-59-MOR-POR",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-60-KASIA",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-61-KASIA",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "KASIA",
+        "goalsFor": 0,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-62-KASIA",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "KASIA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-63-KASIA",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-KASIA",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "KASIA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    }
+]

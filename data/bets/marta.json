@@ -1,0 +1,450 @@
+[
+    {
+        "id": "bet-01-MARTA",
+        "matchId": "match-01-QAT-ECU",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-02-MARTA",
+        "matchId": "match-02-ENG-IRN",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-03-MARTA",
+        "matchId": "match-03-SEN-NED",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-04-MARTA",
+        "matchId": "match-04-USA-WAL",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-05-MARTA",
+        "matchId": "match-05-ARG-SAU",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-06-MARTA",
+        "matchId": "match-06-DEN-TUN",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-07-MARTA",
+        "matchId": "match-07-MEX-POL",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-08-MARTA",
+        "matchId": "match-08-FRA-AUS",
+        "participant": "MARTA",
+        "goalsFor": 3,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-09-MARTA",
+        "matchId": "match-09-MOR-CRO",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-10-MARTA",
+        "matchId": "match-10-GER-JAP",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-11-MARTA",
+        "matchId": "match-11-ESP-CRC",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-12-MARTA",
+        "matchId": "match-12-BEL-CAN",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-13-MARTA",
+        "matchId": "match-13-SUI-CAM",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-14-MARTA",
+        "matchId": "match-14-URU-KOR",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-15-MARTA",
+        "matchId": "match-15-POR-GHA",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-16-MARTA",
+        "matchId": "match-16-BRA-SRB",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-17-MARTA",
+        "matchId": "match-17-WAL-IRN",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-18-MARTA",
+        "matchId": "match-18-QAT-SEN",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-19-MARTA",
+        "matchId": "match-19-NED-ECU",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-20-MARTA",
+        "matchId": "match-20-ENG-USA",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-21-MARTA",
+        "matchId": "match-21-TUN-AUS",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-22-MARTA",
+        "matchId": "match-22-POL-SAU",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-23-MARTA",
+        "matchId": "match-23-FRA-DEN",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-24-MARTA",
+        "matchId": "match-24-ARG-MEX",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-25-MARTA",
+        "matchId": "match-25-JAP-CRC",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-26-MARTA",
+        "matchId": "match-26-BEL-MOR",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-27-MARTA",
+        "matchId": "match-27-CRO-CAN",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-28-MARTA",
+        "matchId": "match-28-ESP-GER",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-29-MARTA",
+        "matchId": "match-29-CAM-SRB",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-30-MARTA",
+        "matchId": "match-30-KOR-GHA",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-31-MARTA",
+        "matchId": "match-31-BRA-SUI",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-32-MARTA",
+        "matchId": "match-32-POR-URU",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-33-MARTA",
+        "matchId": "match-33-NED-QAT",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-34-MARTA",
+        "matchId": "match-34-ECU-SEN",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-35-MARTA",
+        "matchId": "match-35-WAL-ENG",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-36-MARTA",
+        "matchId": "match-36-IRN-USA",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-37-MARTA",
+        "matchId": "match-37-TUN-FRA",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-38-MARTA",
+        "matchId": "match-38-AUS-DEN",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-39-MARTA",
+        "matchId": "match-39-POL-ARG",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-40-MARTA",
+        "matchId": "match-40-SAU-MEX",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-41-MARTA",
+        "matchId": "match-41-CRO-BEL",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-42-MARTA",
+        "matchId": "match-42-CAN-MOR",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-43-MARTA",
+        "matchId": "match-43-JAP-ESP",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-44-MARTA",
+        "matchId": "match-44-CRC-GER",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-45-MARTA",
+        "matchId": "match-45-KOR-POR",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-46-MARTA",
+        "matchId": "match-46-GHA-URU",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-47-MARTA",
+        "matchId": "match-47-CAM-BRA",
+        "participant": "MARTA",
+        "goalsFor": 0,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-48-MARTA",
+        "matchId": "match-48-SRB-SUI",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-49-MARTA",
+        "matchId": "match-49-NED-USA",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-50-MARTA",
+        "matchId": "match-50-ARG-AUS",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-51-MARTA",
+        "matchId": "match-51-FRA-POL",
+        "participant": "MARTA",
+        "goalsFor": 3,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-52-MARTA",
+        "matchId": "match-52-ENG-SEN",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 0
+    },
+    {
+        "id": "bet-53-MARTA",
+        "matchId": "match-53-JAP-CRO",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-54-MARTA",
+        "matchId": "match-54-BRA-KOR",
+        "participant": "MARTA",
+        "goalsFor": 3,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-55-MARTA",
+        "matchId": "match-55-MOR-ESP",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-56-MARTA",
+        "matchId": "match-56-POR-SUI",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-57-MARTA",
+        "matchId": "match-57-CRO-BRA",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-58-MARTA",
+        "matchId": "match-58-NED-ARG",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    },
+    {
+        "id": "bet-59-MARTA",
+        "matchId": "match-59-MOR-POR",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-60-MARTA",
+        "matchId": "match-60-ENG-FRA",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 3
+    },
+    {
+        "id": "bet-61-MARTA",
+        "matchId": "match-61-ARG-CRO",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-62-MARTA",
+        "matchId": "match-62-FRA-MOR",
+        "participant": "MARTA",
+        "goalsFor": 2,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-63-MARTA",
+        "matchId": "match-63-CRO-MOR",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 1
+    },
+    {
+        "id": "bet-64-MARTA",
+        "matchId": "match-64-ARG-FRA",
+        "participant": "MARTA",
+        "goalsFor": 1,
+        "goalsAgainst": 2
+    }
+]
