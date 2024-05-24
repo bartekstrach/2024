@@ -49,7 +49,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>FIFA World Cup 2022 - typowanie</h1>
+      <h1>UEFA EURO 2024 • typowanie</h1>
       <h2>Tabela{latestMatch ? ` ${getLatestMatchText(latestMatch, matches)}` : ""}</h2>
       <ScoreboardComponent bets={bets} matches={matches} scoreboard={scoreboard} />
       <h2>Typy</h2>
