@@ -1,4 +1,4 @@
-import { defineConfig } from 'vite'
+import { defineConfig } from 'vite';
 import react from "@vitejs/plugin-react-swc";
 import { resolve } from "path";
 import { viteStaticCopy } from 'vite-plugin-static-copy';
@@ -21,14 +21,14 @@ export default defineConfig({
         }),
     ],
     define: {
-        'process.env.NODE_ENV': JSON.stringify('production'),
+        'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'development'),
     },
-    root: './',
+    root: process.cwd(), // Use the current working directory as root
     publicDir: 'static',
     build: {
         outDir: 'public',
         rollupOptions: {
-            input: '/index.html',
+            input: 'index.html', // Relative path to the project root
             output: {
                 assetFileNames: 'assets/[name].[hash][extname]',
                 entryFileNames: 'scripts/[name].[hash].js',
@@ -38,11 +38,11 @@ export default defineConfig({
     },
     resolve: {
         alias: {
-            '@assets': resolve(__dirname, './assets'),
-            '@components': resolve(__dirname, './client/components'),
-            '@enums': resolve(__dirname, './client/enums'),
-            '@types': resolve(__dirname, './client/types'),
-            '@utils': resolve(__dirname, './client/utils'),
+            '@assets': resolve(process.cwd(), 'assets'), // Use resolve with current working directory
+            '@components': resolve(process.cwd(), 'client/components'),
+            '@enums': resolve(process.cwd(), 'client/enums'),
+            '@types': resolve(process.cwd(), 'client/types'),
+            '@utils': resolve(process.cwd(), 'client/utils'),
         },
     },
-})
+});
