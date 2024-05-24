@@ -1,6 +1,5 @@
-import { PARTICIPANT } from "@client/enums/participant";
-import { Match } from "@client/types/match";
-import { Scoreboard } from "@client/types/scoreboard";
+import { PARTICIPANT } from "@enums/participant";
+import { Match, Scoreboard } from "@types";
 import { getLatestMatchText } from "./matches";
 
 const getTextSummary = (latestMatch: Match, matches: Array<Match>, scoreboard: Array<Scoreboard>): string => {

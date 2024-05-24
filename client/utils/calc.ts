@@ -1,5 +1,5 @@
-import { POINTS, SCALE } from "@client/enums";
-import { Bet, Match } from "@client/types";
+import { POINTS, SCALE } from "@enums";
+import { Bet, Match } from "@types";
 
 const getScale = (goalsFor: number, goalsAgainst: number): SCALE => {
   if (goalsFor === goalsAgainst) {

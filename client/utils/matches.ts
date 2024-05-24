@@ -1,5 +1,5 @@
-import { TEAM } from "@client/enums/teams";
-import { Match } from "@client/types/match";
+import { TEAM } from "@enums/teams";
+import { Match } from "@types";
 
 const getLatestMatch = (matches: Array<Match>): Match => {
    let match: Match;

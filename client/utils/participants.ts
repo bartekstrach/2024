@@ -1,3 +1,3 @@
-import { PARTICIPANT } from "@client/enums/participant";
+import { PARTICIPANT } from "@enums/participant";
 
 export default () => Object.keys(PARTICIPANT);

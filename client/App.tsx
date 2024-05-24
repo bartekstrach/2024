@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
-import { Bet, Bets, Match, Scoreboard } from "./types";
-import BetMatrix from "./components/bet-matrix";
-import ScoreboardComponent from "./components/scoreboard";
-import getParticipants from "./utils/participants";
-import getScoreboard from "@client/utils/compute";
-import { getLatestMatch, getLatestMatchText } from "./utils/matches";
-import { getTextSummary } from "./utils/summary";
+import { Bet, Bets, Match, Scoreboard } from "@types";
+import BetMatrix from "@components/bet-matrix";
+import ScoreboardComponent from "@components/scoreboard";
+import getParticipants from "@utils/participants";
+import getScoreboard from "@utils/compute";
+import { getLatestMatch, getLatestMatchText } from "@utils/matches";
+import { getTextSummary } from "@utils/summary";
 
 const App = () => {
   const [bets, setBets] = useState<Array<Bets>>([]);

@@ -1,4 +1,4 @@
-import { PARTICIPANT } from "@client/enums";
+import { PARTICIPANT } from "@enums";
 
 export type Bet = {
     id: string;

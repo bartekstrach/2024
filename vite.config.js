@@ -32,4 +32,12 @@ export default defineConfig({
             },
         },
     },
+    resolve: {
+        alias: {
+            '@components': resolve(__dirname, './client/components'),
+            '@enums': resolve(__dirname, './client/enums'),
+            '@types': resolve(__dirname, './client/types'),
+            '@utils': resolve(__dirname, './client/utils'),
+        },
+    },
 })

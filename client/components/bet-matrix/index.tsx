@@ -1,7 +1,7 @@
-import { PARTICIPANT, STAGE, TEAM } from "@client/enums";
-import { Bet, Bets, Match, Scoreboard } from "@client/types";
-import { getBetPoints } from "@client/utils/calc";
-import getParticipants from "@client/utils/participants";
+import { PARTICIPANT, STAGE, TEAM } from "@enums";
+import { Bet, Bets, Match, Scoreboard } from "@types";
+import { getBetPoints } from "@utils/calc";
+import getParticipants from "@utils/participants";
 import React, { useMemo } from "react";
 
 interface Props {

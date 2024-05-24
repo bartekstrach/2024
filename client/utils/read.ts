@@ -1,5 +1,5 @@
-import { Bet, Bets, Match } from "@client/types";
-import getParticipants from "@client/utils/participants";
+import { Bet, Bets, Match } from "@types";
+import getParticipants from "@utils/participants";
 
 export const readBets = (): Bets => {
   let bets: Bets;

@@ -1,6 +1,6 @@
-import { POINTS, SCALE } from "@client/enums";
-import { Bet, Bets, Match, Scoreboard } from "@client/types";
-import getParticipants from "@client/utils/participants";
+import { POINTS, SCALE } from "@enums";
+import { Bet, Bets, Match, Scoreboard } from "@types";
+import getParticipants from "@utils/participants";
 
 const compute = (matches: Array<Match>, bets: Array<Bets>): Map<string, number> => {
     const scores: Map<string, number> = new Map();

@@ -1,4 +1,4 @@
-import { TEAM, STAGE } from "@client/enums";
+import { TEAM, STAGE } from "@enums";
 import { Group } from "./group";
 
 export type Match = {

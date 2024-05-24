@@ -1,6 +1,6 @@
-import { PARTICIPANT } from "@client/enums";
-import { Bets, Match, Scoreboard } from "@client/types";
-import { getRankEmoji } from "@client/utils/summary";
+import { PARTICIPANT } from "@enums";
+import { Bets, Match, Scoreboard } from "@types";
+import { getRankEmoji } from "@utils/summary";
 import React from "react";
 
 interface Props {
