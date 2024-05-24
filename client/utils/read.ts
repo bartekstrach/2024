@@ -5,7 +5,7 @@ export const readBets = (): Bets => {
   let bets: Bets;
 
   getParticipants().forEach(participant => {
-    fetch(`data/bets/${participant.toLocaleLowerCase()}.json`)
+    fetch(`assets/bets/${participant.toLocaleLowerCase()}.json`)
       .then((res) => res.json())
       .then((participantBets: Array<Bet>) => {
         bets[participant] = participantBets;
@@ -18,7 +18,7 @@ export const readBets = (): Bets => {
 export const readMatches = (): Array<Match> => {
   let matches: Array<Match>;
 
-  fetch(`data/matches.json`)
+  fetch(`assets/matches.json`)
     .then(res => res.json())
     .then((data: Array<Match>) => {
       matches = data;

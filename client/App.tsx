@@ -14,7 +14,7 @@ const App = () => {
   const [latestMatch, setLatestMatch] = useState<Match>(null);
 
   useEffect(()=>{
-    fetch("data/matches.json")
+    fetch("assets/matches.json")
       .then((res) => res.json())
       .then((data: Array<Match>) => {
         setMatches(data);
@@ -23,7 +23,7 @@ const App = () => {
 
   useEffect(() => {
     getParticipants().forEach((participant) => {
-      fetch(`data/bets/${participant.toLocaleLowerCase()}.json`)
+      fetch(`assets/bets/${participant.toLocaleLowerCase()}.json`)
         .then((res) => res.json())
         .then((participantBets: Array<Bet>) => {
           setBets(prevBets => [...prevBets, { participant, bets: participantBets }])
