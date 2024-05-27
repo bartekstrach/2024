@@ -73,7 +73,7 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
               )}
               <tr key={match?.id}>
                 <td className="center">{getStageOrGroup(match)}</td>
-                <td>{match?.dateTime}</td>
+                <td>{new Date(match?.dateTime).toLocaleDateString('pl-PL', { year: '2-digit', month: '2-digit', day: '2-digit', weekday: 'narrow', hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Warsaw' })}</td>
                 <td
                   className="match sticky-col"
                   key={`${match?.homeTeam}-${match?.awayTeam}`}
