@@ -60,7 +60,7 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
         {matches?.map((match) =>
           isMatchUnknown(match) ? null : (
             <>
-              {(match?.matchNo === 17 || match?.matchNo === 33 || match?.matchNo === 49 || match?.matchNo === 57) && (
+              {(match?.matchNo === 13 || match?.matchNo === 25 || match?.matchNo === 38 || match?.matchNo === 45) && (
                 <tr>
                   <th/>
                   <th/>
