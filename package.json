@@ -4,11 +4,10 @@
   "homepage": "https://bartekstrach.github.io/2024",
   "type": "module",
   "scripts": {
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d public",
-    "build": "cross-env NODE_ENV=production vite build",
     "dev": "vite serve",
-    "push-result": "git commit -am \"match: update result\" && git push && yarn predeploy && yarn deploy"
+    "build": "cross-env NODE_ENV=production vite build",
+    "deploy": "gh-pages -d public",
+    "push-result": "git commit -am \"match: update result\" && git push && yarn build && yarn deploy"
   },
   "author": "https://github.com/bartekstrach",
   "license": "ISC",
