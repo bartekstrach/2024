@@ -1,450 +1,359 @@
 [
     {
-        "id": "bet-01-DOMCIA",
-        "matchId": "match-01-QAT-ECU",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
+        "id": "bet-1-DOMCIA",
+        "matchId": "match-1-DEU-SCO",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
-        "id": "bet-02-DOMCIA",
-        "matchId": "match-02-ENG-IRN",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 0
+        "id": "bet-2-DOMCIA",
+        "matchId": "match-2-HUN-CHE",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
-        "id": "bet-03-DOMCIA",
-        "matchId": "match-03-SEN-NED",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "id": "bet-3-DOMCIA",
+        "matchId": "match-3-ESP-HRV",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
-        "id": "bet-04-DOMCIA",
-        "matchId": "match-04-USA-WAL",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 1
+        "id": "bet-4-DOMCIA",
+        "matchId": "match-4-ITA-ALB",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
-        "id": "bet-05-DOMCIA",
-        "matchId": "match-05-ARG-SAU",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 0
+        "id": "bet-5-DOMCIA",
+        "matchId": "match-5-POL-NLD",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
-        "id": "bet-06-DOMCIA",
-        "matchId": "match-06-DEN-TUN",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "id": "bet-6-DOMCIA",
+        "matchId": "match-6-SVN-DNK",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
-        "id": "bet-07-DOMCIA",
-        "matchId": "match-07-MEX-POL",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 1
+        "id": "bet-7-DOMCIA",
+        "matchId": "match-7-SRB-ENG",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
-        "id": "bet-08-DOMCIA",
-        "matchId": "match-08-FRA-AUS",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 0
+        "id": "bet-8-DOMCIA",
+        "matchId": "match-8-ROU-UKR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
-        "id": "bet-09-DOMCIA",
-        "matchId": "match-09-MOR-CRO",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "id": "bet-9-DOMCIA",
+        "matchId": "match-9-BEL-SVK",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-10-DOMCIA",
-        "matchId": "match-10-GER-JAP",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "matchId": "match-10-AUT-FRA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-11-DOMCIA",
-        "matchId": "match-11-ESP-CRC",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 0
+        "matchId": "match-11-TUR-GEO",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-12-DOMCIA",
-        "matchId": "match-12-BEL-CAN",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "matchId": "match-12-POR-CZE",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-13-DOMCIA",
-        "matchId": "match-13-SUI-CAM",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 0
+        "matchId": "match-13-HRV-ALB",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-14-DOMCIA",
-        "matchId": "match-14-URU-KOR",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 0
+        "matchId": "match-14-DEU-HUN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-15-DOMCIA",
-        "matchId": "match-15-POR-GHA",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 0
+        "matchId": "match-15-SCO-CHE",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-16-DOMCIA",
-        "matchId": "match-16-BRA-SRB",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 0
+        "matchId": "match-16-SVN-SRB",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-17-DOMCIA",
-        "matchId": "match-17-WAL-IRN",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 0
+        "matchId": "match-17-DNK-ENG",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-18-DOMCIA",
-        "matchId": "match-18-QAT-SEN",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 1
+        "matchId": "match-18-ESP-ITA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-19-DOMCIA",
-        "matchId": "match-19-NED-ECU",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "matchId": "match-19-SVK-UKR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-20-DOMCIA",
-        "matchId": "match-20-ENG-USA",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
+        "matchId": "match-20-POL-AUT",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-21-DOMCIA",
-        "matchId": "match-21-TUN-AUS",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 0
+        "matchId": "match-21-NLD-FRA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-22-DOMCIA",
-        "matchId": "match-22-POL-SAU",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "matchId": "match-22-GEO-CZE",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-23-DOMCIA",
-        "matchId": "match-23-FRA-DEN",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
+        "matchId": "match-23-TUR-POR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-24-DOMCIA",
-        "matchId": "match-24-ARG-MEX",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 1
+        "matchId": "match-24-BEL-ROU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-25-DOMCIA",
-        "matchId": "match-25-JAP-CRC",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 0
+        "matchId": "match-25-CHE-DEU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-26-DOMCIA",
-        "matchId": "match-26-BEL-MOR",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "matchId": "match-26-SCO-HUN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-27-DOMCIA",
-        "matchId": "match-27-CRO-CAN",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "matchId": "match-27-HRV-ITA",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-28-DOMCIA",
-        "matchId": "match-28-ESP-GER",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
+        "matchId": "match-28-ALB-ESP",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-29-DOMCIA",
-        "matchId": "match-29-CAM-SRB",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 1
+        "matchId": "match-29-NLD-AUT",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-30-DOMCIA",
-        "matchId": "match-30-KOR-GHA",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 0
+        "matchId": "match-30-FRA-POL",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-31-DOMCIA",
-        "matchId": "match-31-BRA-SUI",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
+        "matchId": "match-31-ENG-SVN",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-32-DOMCIA",
-        "matchId": "match-32-POR-URU",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
+        "matchId": "match-32-DNK-SRB",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-33-DOMCIA",
-        "matchId": "match-33-NED-QAT",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "matchId": "match-33-SVK-ROU",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-34-DOMCIA",
-        "matchId": "match-34-ECU-SEN",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 1
+        "matchId": "match-34-UKR-BEL",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-35-DOMCIA",
-        "matchId": "match-35-WAL-ENG",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "matchId": "match-35-CZE-TUR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-36-DOMCIA",
-        "matchId": "match-36-IRN-USA",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 1
+        "matchId": "match-36-GEO-POR",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-37-DOMCIA",
-        "matchId": "match-37-TUN-FRA",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "matchId": "match-37-1A-2C",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-38-DOMCIA",
-        "matchId": "match-38-AUS-DEN",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "matchId": "match-38-2A-2B",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-39-DOMCIA",
-        "matchId": "match-39-POL-ARG",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 3
+        "matchId": "match-39-1B-3ADEF",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-40-DOMCIA",
-        "matchId": "match-40-SAU-MEX",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 1
+        "matchId": "match-40-1C-3DEF",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-41-DOMCIA",
-        "matchId": "match-41-CRO-BEL",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 1
+        "matchId": "match-41-1F-3ABC",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-42-DOMCIA",
-        "matchId": "match-42-CAN-MOR",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 0
+        "matchId": "match-42-2D-2E",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-43-DOMCIA",
-        "matchId": "match-43-JAP-ESP",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "matchId": "match-43-1E-3ABCD",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-44-DOMCIA",
-        "matchId": "match-44-CRC-GER",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "matchId": "match-44-1D-2F",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-45-DOMCIA",
-        "matchId": "match-45-KOR-POR",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "matchId": "match-45-W39-W37",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-46-DOMCIA",
-        "matchId": "match-46-GHA-URU",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
+        "matchId": "match-46-W41-W42",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-47-DOMCIA",
-        "matchId": "match-47-CAM-BRA",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 3
+        "matchId": "match-47-W43-W44",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-48-DOMCIA",
-        "matchId": "match-48-SRB-SUI",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 1
+        "matchId": "match-48-W40-W38",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-49-DOMCIA",
-        "matchId": "match-49-NED-USA",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
+        "matchId": "match-49-W45-W46",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-50-DOMCIA",
-        "matchId": "match-50-ARG-AUS",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 0
+        "matchId": "match-50-W47-W48",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     },
     {
         "id": "bet-51-DOMCIA",
-        "matchId": "match-51-FRA-POL",
-        "participant": "DOMCIA",
-        "goalsFor": 4,
-        "goalsAgainst": 0
-    },
-    {
-        "id": "bet-52-DOMCIA",
-        "matchId": "match-52-ENG-SEN",
-        "participant": "DOMCIA",
-        "goalsFor": 3,
-        "goalsAgainst": 2
-    },
-    {
-        "id": "bet-53-DOMCIA",
-        "matchId": "match-53-JAP-CRO",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 1
-    },
-    {
-        "id": "bet-54-DOMCIA",
-        "matchId": "match-54-BRA-KOR",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 0
-    },
-    {
-        "id": "bet-55-DOMCIA",
-        "matchId": "match-55-MOR-ESP",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 3
-    },
-    {
-        "id": "bet-56-DOMCIA",
-        "matchId": "match-56-POR-SUI",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 0
-    },
-    {
-        "id": "bet-57-DOMCIA",
-        "matchId": "match-57-CRO-BRA",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 3
-    },
-    {
-        "id": "bet-58-DOMCIA",
-        "matchId": "match-58-NED-ARG",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 2
-    },
-    {
-        "id": "bet-59-DOMCIA",
-        "matchId": "match-59-MOR-POR",
-        "participant": "DOMCIA",
-        "goalsFor": 0,
-        "goalsAgainst": 2
-    },
-    {
-        "id": "bet-60-DOMCIA",
-        "matchId": "match-60-ENG-FRA",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 2
-    },
-    {
-        "id": "bet-61-DOMCIA",
-        "matchId": "match-61-ARG-CRO",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
-    },
-    {
-        "id": "bet-62-DOMCIA",
-        "matchId": "match-62-FRA-MOR",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
-    },
-    {
-        "id": "bet-63-DOMCIA",
-        "matchId": "match-63-CRO-MOR",
-        "participant": "DOMCIA",
-        "goalsFor": 1,
-        "goalsAgainst": 1
-    },
-    {
-        "id": "bet-64-DOMCIA",
-        "matchId": "match-64-ARG-FRA",
-        "participant": "DOMCIA",
-        "goalsFor": 2,
-        "goalsAgainst": 1
+        "matchId": "match-51-W49-W50",
+        "participant": "",
+        "goalsFor": null,
+        "goalsAgainst": null
     }
 ]
