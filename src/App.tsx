@@ -13,21 +13,26 @@ const App = () => {
   const [scoreboard, setScoreboard] = useState<Array<Scoreboard>>([]);
   const [latestMatch, setLatestMatch] = useState<Match>(null);
 
-  useEffect(()=>{
+  useEffect(() => {
     fetch("assets/matches.json")
       .then((res) => res.json())
       .then((data: Array<Match>) => {
         setMatches(data);
-      }).catch(e => console.error(e));
-  },[]);
+      })
+      .catch((e) => console.error(e));
+  }, []);
 
   useEffect(() => {
     getParticipants().forEach((participant) => {
       fetch(`assets/bets/${participant.toLocaleLowerCase()}.json`)
         .then((res) => res.json())
         .then((participantBets: Array<Bet>) => {
-          setBets(prevBets => [...prevBets, { participant, bets: participantBets }])
-        }).catch(e => console.log(e));
+          setBets((prevBets) => [
+            ...prevBets,
+            { participant, bets: participantBets },
+          ]);
+        })
+        .catch((e) => console.log(e));
     });
   }, []);
 
@@ -44,20 +49,30 @@ const App = () => {
   }, [matches]);
 
   const copyToClipboard = () => {
-    navigator.clipboard.writeText(getTextSummary(latestMatch, matches, scoreboard));
+    navigator.clipboard.writeText(
+      getTextSummary(latestMatch, matches, scoreboard),
+    );
   };
 
   return (
     <div>
       <h1>UEFA EURO 2024 • typowanie</h1>
-      <h2>Tabela{latestMatch ? ` ${getLatestMatchText(latestMatch, matches)}` : ""}</h2>
-      <ScoreboardComponent bets={bets} matches={matches} scoreboard={scoreboard} />
+      <h2>
+        Tabela
+        {latestMatch ? ` ${getLatestMatchText(latestMatch, matches)}` : ""}
+      </h2>
+      <ScoreboardComponent
+        bets={bets}
+        matches={matches}
+        scoreboard={scoreboard}
+      />
       <h2>Typy</h2>
       <div className="link-to-drive">
         Karty z typami do podejrzenia{" "}
         <a
           href="https://drive.google.com/drive/folders/1AtJy06y9oMqnM9iLU4CoVBB3LXo77Evn?usp=share_link"
           target="_blank"
+          rel="noreferrer"
         >
           tutaj
         </a>

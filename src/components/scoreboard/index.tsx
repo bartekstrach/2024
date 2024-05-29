@@ -34,13 +34,14 @@ const Scoreboard = ({ bets, matches, scoreboard }: Props) => {
           }
           return (
             <tr key={participant}>
-              <td className="rank">{printRank ? `${getRankEmoji(rank)}` : ""}</td>
+              <td className="rank">
+                {printRank ? `${getRankEmoji(rank)}` : ""}
+              </td>
               <td className="participant">{PARTICIPANT[participant]}</td>
               <td className="points">{points}</td>
             </tr>
-          )
-        }
-        )}
+          );
+        })}
       </tbody>
     </table>
   );

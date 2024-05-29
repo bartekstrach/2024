@@ -4,14 +4,15 @@ import getParticipants from "@utils/participants";
 export const readBets = (): Bets => {
   let bets: Bets;
 
-  getParticipants().forEach(participant => {
+  getParticipants().forEach((participant) => {
     fetch(`assets/bets/${participant.toLocaleLowerCase()}.json`)
       .then((res) => res.json())
       .then((participantBets: Array<Bet>) => {
         bets[participant] = participantBets;
-      }).catch(e => console.log(e));
+      })
+      .catch((e) => console.log(e));
   });
-  
+
   return bets;
 };
 
@@ -19,10 +20,11 @@ export const readMatches = (): Array<Match> => {
   let matches: Array<Match>;
 
   fetch(`assets/matches.json`)
-    .then(res => res.json())
+    .then((res) => res.json())
     .then((data: Array<Match>) => {
       matches = data;
-    }).catch(e => console.error(e));
-    
+    })
+    .catch((e) => console.error(e));
+
   return matches;
 };

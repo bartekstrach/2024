@@ -25,7 +25,7 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
   const formatScore = (
     goalsFor: number,
     goalsAgainst: number,
-    key?: string
+    key?: string,
   ): JSX.Element =>
     (goalsFor !== undefined &&
       goalsFor !== null &&
@@ -41,7 +41,10 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
   const getParticipantPoints = (participant: string): number =>
     scoreboard.find((sb) => sb.participant === participant)?.points ?? null;
 
-  const getParticipantBets = (participant: string, bets: Array<Bets>): Array<Bet> => bets?.find(b => b.participant === participant)?.bets ?? [];
+  const getParticipantBets = (
+    participant: string,
+    bets: Array<Bets>,
+  ): Array<Bet> => bets?.find((b) => b.participant === participant)?.bets ?? [];
 
   return (
     <table className="matrix">
@@ -60,12 +63,15 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
         {matches?.map((match) =>
           isMatchUnknown(match) ? null : (
             <>
-              {(match?.matchNo === 13 || match?.matchNo === 25 || match?.matchNo === 38 || match?.matchNo === 45) && (
+              {(match?.matchNo === 13 ||
+                match?.matchNo === 25 ||
+                match?.matchNo === 38 ||
+                match?.matchNo === 45) && (
                 <tr>
-                  <th/>
-                  <th/>
-                  <th/>
-                  <th/>
+                  <th />
+                  <th />
+                  <th />
+                  <th />
                   {participants.map((participant) => (
                     <th key={participant}>{PARTICIPANT[participant]}</th>
                   ))}
@@ -73,7 +79,17 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
               )}
               <tr key={match?.id}>
                 <td className="center">{getStageOrGroup(match)}</td>
-                <td>{new Date(match?.dateTime).toLocaleDateString('pl-PL', { year: '2-digit', month: '2-digit', day: '2-digit', weekday: 'narrow', hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Warsaw' })}</td>
+                <td>
+                  {new Date(match?.dateTime).toLocaleDateString("pl-PL", {
+                    year: "2-digit",
+                    month: "2-digit",
+                    day: "2-digit",
+                    weekday: "narrow",
+                    hour: "2-digit",
+                    minute: "2-digit",
+                    timeZone: "Europe/Warsaw",
+                  })}
+                </td>
                 <td
                   className="match sticky-col"
                   key={`${match?.homeTeam}-${match?.awayTeam}`}
@@ -86,7 +102,7 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
                   {formatScore(match?.goalsFor, match?.goalsAgainst)}
                 </td>
                 {participants.map((participant) =>
-                  (getParticipantBets(participant, bets))?.map((bet) =>
+                  getParticipantBets(participant, bets)?.map((bet) =>
                     bet.matchId === match?.id ? (
                       <td className="bet" key={`${participant}-${bet.id}`}>
                         <span className="score">
@@ -96,12 +112,12 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
                           <b>{getBetPoints(bet, match)}</b>
                         </span>
                       </td>
-                    ) : null
-                  )
+                    ) : null,
+                  ),
                 )}
               </tr>
             </>
-          )
+          ),
         )}
       </tbody>
       <tfoot>
