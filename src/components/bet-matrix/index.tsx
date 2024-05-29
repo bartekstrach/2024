@@ -84,7 +84,7 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
                     year: "2-digit",
                     month: "2-digit",
                     day: "2-digit",
-                    weekday: "narrow",
+                    weekday: "short",
                     hour: "2-digit",
                     minute: "2-digit",
                     timeZone: "Europe/Warsaw",
