@@ -67,17 +67,17 @@ const App = () => {
         scoreboard={scoreboard}
       />
       <h2>Typy</h2>
-      <div className="link-to-drive">
+      {/* <div className="link-to-drive">
         Karty z typami do podejrzenia{" "}
         <a
-          href="https://drive.google.com/drive/folders/1AtJy06y9oMqnM9iLU4CoVBB3LXo77Evn?usp=share_link"
+          href="https://drive.google.com/drive/folders/11zvzq60Dr7u5-eGAB2_D7qUtCoGnx98t?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >
           tutaj
         </a>
         .
-      </div>
+      </div> */}
       <BetMatrix bets={bets} matches={matches} scoreboard={scoreboard} />
       <br />
       <button onClick={copyToClipboard}>Kopiuj</button>
