@@ -7,8 +7,8 @@
     "stage": "GROUP",
     "group": "A",
     "dateTime": "2024-06-14T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-2-HUN-CHE",
