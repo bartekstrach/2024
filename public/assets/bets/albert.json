@@ -183,17 +183,17 @@
   },
   {
     "id": "bet-27-ALBERT",
-    "matchId": "match-27-HRV-ITA",
+    "matchId": "match-28-HRV-ITA",
     "participant": "ALBERT",
-    "goalsFor": 2,
-    "goalsAgainst": 1
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-28-ALBERT",
-    "matchId": "match-28-ALB-ESP",
+    "matchId": "match-27-ALB-ESP",
     "participant": "ALBERT",
-    "goalsFor": 0,
-    "goalsAgainst": 3
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-29-ALBERT",
@@ -239,17 +239,17 @@
   },
   {
     "id": "bet-35-ALBERT",
-    "matchId": "match-35-CZE-TUR",
-    "participant": "ALBERT",
-    "goalsFor": 1,
-    "goalsAgainst": 0
-  },
-  {
-    "id": "bet-36-ALBERT",
-    "matchId": "match-36-GEO-POR",
+    "matchId": "match-36-CZE-TUR",
     "participant": "ALBERT",
     "goalsFor": 0,
     "goalsAgainst": 2
+  },
+  {
+    "id": "bet-36-ALBERT",
+    "matchId": "match-35-GEO-POR",
+    "participant": "ALBERT",
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-37-ALBERT",

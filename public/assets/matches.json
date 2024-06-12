@@ -286,10 +286,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-27-HRV-ITA",
+    "id": "match-28-HRV-ITA",
     "matchNo": 27,
-    "homeTeam": "HRV",
-    "awayTeam": "ITA",
+    "homeTeam": "ALB",
+    "awayTeam": "ESP",
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-24T21:00:00+02:00",
@@ -297,10 +297,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-28-ALB-ESP",
+    "id": "match-27-ALB-ESP",
     "matchNo": 28,
-    "homeTeam": "ALB",
-    "awayTeam": "ESP",
+    "homeTeam": "HRV",
+    "awayTeam": "ITA",
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-24T21:00:00+02:00",
@@ -374,10 +374,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-35-CZE-TUR",
+    "id": "match-36-CZE-TUR",
     "matchNo": 35,
-    "homeTeam": "CZE",
-    "awayTeam": "TUR",
+    "homeTeam": "GEO",
+    "awayTeam": "POR",
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-26T21:00:00+02:00",
@@ -385,10 +385,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-36-GEO-POR",
+    "id": "match-35-GEO-POR",
     "matchNo": 36,
-    "homeTeam": "GEO",
-    "awayTeam": "POR",
+    "homeTeam": "CZE",
+    "awayTeam": "TUR",
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-26T21:00:00+02:00",
