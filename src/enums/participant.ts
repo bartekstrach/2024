@@ -3,7 +3,7 @@ export enum PARTICIPANT {
   ALBERT = "*Albert",
   ALICJA = "Alicja",
   ANGELA = "*Angela",
-  BARTEK = "*Bartek",
+  BARTEK = "Bartek",
   DAMIAN = "Damian",
   DOMCIA = "*Domcia",
   ELA = "*Ela",
