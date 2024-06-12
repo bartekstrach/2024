@@ -2,357 +2,357 @@
   {
     "id": "bet-1-KASIA",
     "matchId": "match-1-DEU-SCO",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-2-KASIA",
     "matchId": "match-2-HUN-CHE",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-3-KASIA",
     "matchId": "match-3-ESP-HRV",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-4-KASIA",
     "matchId": "match-4-ITA-ALB",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-5-KASIA",
     "matchId": "match-5-POL-NLD",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-6-KASIA",
     "matchId": "match-6-SVN-DNK",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-7-KASIA",
     "matchId": "match-7-SRB-ENG",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-8-KASIA",
     "matchId": "match-8-ROU-UKR",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-9-KASIA",
     "matchId": "match-9-BEL-SVK",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-10-KASIA",
     "matchId": "match-10-AUT-FRA",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-11-KASIA",
     "matchId": "match-11-TUR-GEO",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-12-KASIA",
     "matchId": "match-12-POR-CZE",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-13-KASIA",
     "matchId": "match-13-HRV-ALB",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-14-KASIA",
     "matchId": "match-14-DEU-HUN",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 4,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-15-KASIA",
     "matchId": "match-15-SCO-CHE",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-16-KASIA",
     "matchId": "match-16-SVN-SRB",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-17-KASIA",
     "matchId": "match-17-DNK-ENG",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-18-KASIA",
     "matchId": "match-18-ESP-ITA",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-19-KASIA",
     "matchId": "match-19-SVK-UKR",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-20-KASIA",
     "matchId": "match-20-POL-AUT",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-21-KASIA",
     "matchId": "match-21-NLD-FRA",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-22-KASIA",
     "matchId": "match-22-GEO-CZE",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-23-KASIA",
     "matchId": "match-23-TUR-POR",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 4
   },
   {
     "id": "bet-24-KASIA",
     "matchId": "match-24-BEL-ROU",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-25-KASIA",
     "matchId": "match-25-CHE-DEU",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 2,
+    "goalsAgainst": 4
   },
   {
     "id": "bet-26-KASIA",
     "matchId": "match-26-SCO-HUN",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-27-KASIA",
     "matchId": "match-27-ALB-ESP",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-28-KASIA",
     "matchId": "match-28-HRV-ITA",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-29-KASIA",
     "matchId": "match-29-NLD-AUT",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-30-KASIA",
     "matchId": "match-30-FRA-POL",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-31-KASIA",
     "matchId": "match-31-ENG-SVN",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-32-KASIA",
     "matchId": "match-32-DNK-SRB",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-33-KASIA",
     "matchId": "match-33-SVK-ROU",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-34-KASIA",
     "matchId": "match-34-UKR-BEL",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-35-KASIA",
     "matchId": "match-35-GEO-POR",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-36-KASIA",
     "matchId": "match-36-CZE-TUR",
-    "participant": "",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "participant": "KASIA",
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-37-KASIA",
     "matchId": "match-37-1A-2C",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-38-KASIA",
     "matchId": "match-38-2A-2B",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-39-KASIA",
     "matchId": "match-39-1B-3ADEF",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-40-KASIA",
     "matchId": "match-40-1C-3DEF",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-41-KASIA",
     "matchId": "match-41-1F-3ABC",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-42-KASIA",
     "matchId": "match-42-2D-2E",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-43-KASIA",
     "matchId": "match-43-1E-3ABCD",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-44-KASIA",
     "matchId": "match-44-1D-2F",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-45-KASIA",
     "matchId": "match-45-W39-W37",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-46-KASIA",
     "matchId": "match-46-W41-W42",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-47-KASIA",
     "matchId": "match-47-W43-W44",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-48-KASIA",
     "matchId": "match-48-W40-W38",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-49-KASIA",
     "matchId": "match-49-W45-W46",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-50-KASIA",
     "matchId": "match-50-W47-W48",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   },
   {
     "id": "bet-51-KASIA",
     "matchId": "match-51-W49-W50",
-    "participant": "",
+    "participant": "KASIA",
     "goalsFor": null,
     "goalsAgainst": null
   }
