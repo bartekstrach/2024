@@ -286,7 +286,7 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-28-HRV-ITA",
+    "id": "match-27-ALB-ESP",
     "matchNo": 27,
     "homeTeam": "ALB",
     "awayTeam": "ESP",
@@ -297,7 +297,7 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-27-ALB-ESP",
+    "id": "match-28-HRV-ITA",
     "matchNo": 28,
     "homeTeam": "HRV",
     "awayTeam": "ITA",
@@ -374,7 +374,7 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-36-CZE-TUR",
+    "id": "match-35-GEO-POR",
     "matchNo": 35,
     "homeTeam": "GEO",
     "awayTeam": "POR",
@@ -385,7 +385,7 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-35-GEO-POR",
+    "id": "match-36-CZE-TUR",
     "matchNo": 36,
     "homeTeam": "CZE",
     "awayTeam": "TUR",
