@@ -1,6 +1,7 @@
 import { PARTICIPANT, STAGE, TEAM } from "@enums";
 import { Bet, Bets, Match, Scoreboard } from "@types";
 import { getBetPoints } from "@utils/calc";
+import { format } from "@utils/date";
 import getParticipants from "@utils/participants";
 import React, { useMemo } from "react";
 
@@ -79,17 +80,7 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
               )}
               <tr key={match?.id}>
                 <td className="center">{getStageOrGroup(match)}</td>
-                <td>
-                  {new Date(match?.dateTime).toLocaleDateString("pl-PL", {
-                    year: "2-digit",
-                    month: "2-digit",
-                    day: "2-digit",
-                    weekday: "short",
-                    hour: "2-digit",
-                    minute: "2-digit",
-                    timeZone: "Europe/Warsaw",
-                  })}
-                </td>
+                <td>{format(match?.dateTime)}</td>
                 <td
                   className="match sticky-col"
                   key={`${match?.homeTeam}-${match?.awayTeam}`}

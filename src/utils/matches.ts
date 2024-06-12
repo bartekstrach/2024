@@ -1,5 +1,6 @@
 import { TEAM } from "@enums/teams";
 import { Match } from "@types";
+import { format } from "./date";
 
 const getLatestMatch = (matches: Array<Match>): Match => {
   let match: Match;
@@ -30,10 +31,10 @@ const getLatestMatchText = (
     const text = latestMatches
       .map((m) => `${TEAM[m.homeTeam]} - ${TEAM[m.awayTeam]}`)
       .join(" & ");
-    return `po meczach ${text} (${dateTime})`;
+    return `po meczach ${text} (${format(dateTime)})`;
   }
 
-  return `po meczu ${TEAM[homeTeam]} - ${TEAM[awayTeam]} (${dateTime})`;
+  return `po meczu ${TEAM[homeTeam]} - ${TEAM[awayTeam]} (${format(dateTime)})`;
 };
 
 export { getLatestMatch, getLatestMatchText };
