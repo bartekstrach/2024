@@ -183,14 +183,14 @@
   },
   {
     "id": "bet-27-ADAM",
-    "matchId": "match-28-HRV-ITA",
+    "matchId": "match-27-ALB-ESP",
     "participant": "ADAM",
     "goalsFor": 0,
     "goalsAgainst": 4
   },
   {
     "id": "bet-28-ADAM",
-    "matchId": "match-27-ALB-ESP",
+    "matchId": "match-28-HRV-ITA",
     "participant": "ADAM",
     "goalsFor": 2,
     "goalsAgainst": 2
@@ -239,14 +239,14 @@
   },
   {
     "id": "bet-35-ADAM",
-    "matchId": "match-36-CZE-TUR",
+    "matchId": "match-35-GEO-POR",
     "participant": "ADAM",
     "goalsFor": 0,
     "goalsAgainst": 4
   },
   {
     "id": "bet-36-ADAM",
-    "matchId": "match-35-GEO-POR",
+    "matchId": "match-36-CZE-TUR",
     "participant": "ADAM",
     "goalsFor": 1,
     "goalsAgainst": 1
