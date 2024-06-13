@@ -1,7 +1,7 @@
 export enum PARTICIPANT {
   ADAM = "*Adam",
   ALBERT = "*Albert",
-  ALICJA = "Alicja",
+  ALICJA = "-Alicja",
   ANGELA = "*Angela",
   BARTEK = "-Bartek",
   DAMIAN = "-Damian",
@@ -19,5 +19,5 @@ export enum PARTICIPANT {
   MARTA = "Marta",
   MICHAL = "Michał",
   RYSIU = "*Rysiu",
-  TOMEK = "Tomek",
+  TOMEK = "-Tomek",
 }
