@@ -3,253 +3,253 @@
     "id": "bet-1-DAMIAN",
     "matchId": "match-1-DEU-SCO",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-2-DAMIAN",
     "matchId": "match-2-HUN-CHE",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-3-DAMIAN",
     "matchId": "match-3-ESP-HRV",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-4-DAMIAN",
     "matchId": "match-4-ITA-ALB",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-5-DAMIAN",
     "matchId": "match-5-POL-NLD",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-6-DAMIAN",
     "matchId": "match-6-SVN-DNK",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-7-DAMIAN",
     "matchId": "match-7-SRB-ENG",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-8-DAMIAN",
     "matchId": "match-8-ROU-UKR",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-9-DAMIAN",
     "matchId": "match-9-BEL-SVK",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-10-DAMIAN",
     "matchId": "match-10-AUT-FRA",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-11-DAMIAN",
     "matchId": "match-11-TUR-GEO",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-12-DAMIAN",
     "matchId": "match-12-POR-CZE",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-13-DAMIAN",
     "matchId": "match-13-HRV-ALB",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-14-DAMIAN",
     "matchId": "match-14-DEU-HUN",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-15-DAMIAN",
     "matchId": "match-15-SCO-CHE",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-16-DAMIAN",
     "matchId": "match-16-SVN-SRB",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-17-DAMIAN",
     "matchId": "match-17-DNK-ENG",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-18-DAMIAN",
     "matchId": "match-18-ESP-ITA",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-19-DAMIAN",
     "matchId": "match-19-SVK-UKR",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-20-DAMIAN",
     "matchId": "match-20-POL-AUT",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-21-DAMIAN",
     "matchId": "match-21-NLD-FRA",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-22-DAMIAN",
     "matchId": "match-22-GEO-CZE",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-23-DAMIAN",
     "matchId": "match-23-TUR-POR",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-24-DAMIAN",
     "matchId": "match-24-BEL-ROU",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-25-DAMIAN",
     "matchId": "match-25-CHE-DEU",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-26-DAMIAN",
     "matchId": "match-26-SCO-HUN",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-27-DAMIAN",
     "matchId": "match-27-ALB-ESP",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-28-DAMIAN",
     "matchId": "match-28-HRV-ITA",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-29-DAMIAN",
     "matchId": "match-29-NLD-AUT",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-30-DAMIAN",
     "matchId": "match-30-FRA-POL",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-31-DAMIAN",
     "matchId": "match-31-ENG-SVN",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-32-DAMIAN",
     "matchId": "match-32-DNK-SRB",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-33-DAMIAN",
     "matchId": "match-33-SVK-ROU",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-34-DAMIAN",
     "matchId": "match-34-UKR-BEL",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-35-DAMIAN",
     "matchId": "match-35-GEO-POR",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-36-DAMIAN",
     "matchId": "match-36-CZE-TUR",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-37-DAMIAN",
