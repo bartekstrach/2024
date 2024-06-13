@@ -16,7 +16,7 @@ export enum PARTICIPANT {
   MAGDA = "Magda & Julka",
   MARCIN_P = "Marcin P.",
   MARCIN_Z = "Marcin Ż.",
-  MARTA = "**Marta",
+  MARTA = "*Marta & Leoś",
   MICHAL = "**Michał",
   RYSIU = "Rysiu",
   TOMEK = "Tomek",
