@@ -3,29 +3,29 @@
     "id": "bet-1-GENIU",
     "matchId": "match-1-DEU-SCO",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-2-GENIU",
     "matchId": "match-2-HUN-CHE",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-3-GENIU",
     "matchId": "match-3-ESP-HRV",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-4-GENIU",
     "matchId": "match-4-ITA-ALB",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-5-GENIU",

@@ -3,29 +3,29 @@
     "id": "bet-1-JOLA_P",
     "matchId": "match-1-DEU-SCO",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-2-JOLA_P",
     "matchId": "match-2-HUN-CHE",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-3-JOLA_P",
     "matchId": "match-3-ESP-HRV",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-4-JOLA_P",
     "matchId": "match-4-ITA-ALB",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-5-JOLA_P",
