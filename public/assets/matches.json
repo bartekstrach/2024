@@ -18,8 +18,8 @@
     "stage": "GROUP",
     "group": "A",
     "dateTime": "2024-06-15T15:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "match-3-ESP-HRV",
