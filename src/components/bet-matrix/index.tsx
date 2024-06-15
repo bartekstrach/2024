@@ -58,6 +58,8 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
           {participants.map((participant) => (
             <th key={participant}>{PARTICIPANT[participant]}</th>
           ))}
+          <th className="sticky-col">Mecz</th>
+          <th>Gr.</th>
         </tr>
       </thead>
       <tbody>
@@ -106,6 +108,15 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
                     ) : null,
                   ),
                 )}
+                <td
+                  className="match sticky-col"
+                  key={`${match?.homeTeam}-${match?.awayTeam}`}
+                >
+                  <span>{TEAM[match?.homeTeam]}</span>
+                  <span>-</span>
+                  <span>{TEAM[match?.awayTeam]}</span>
+                </td>
+                <td className="center">{getStageOrGroup(match)}</td>
               </tr>
             </>
           ),
