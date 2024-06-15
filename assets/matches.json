@@ -40,8 +40,8 @@
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-15T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "match-5-POL-NLD",
