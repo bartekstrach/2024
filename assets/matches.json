@@ -29,8 +29,8 @@
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-15T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "match-4-ITA-ALB",
