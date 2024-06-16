@@ -9,13 +9,34 @@ export const format = (date: Date | string | undefined) => {
     d = new Date(date);
   }
 
-  return d.toLocaleDateString("pl-PL", {
-    year: "2-digit",
-    month: "2-digit",
-    day: "2-digit",
-    weekday: "short",
-    hour: "2-digit",
-    minute: "2-digit",
-    timeZone: "Europe/Warsaw",
-  });
+  return (
+    getWeekday(d) +
+    ", " +
+    d.toLocaleDateString("pl-PL", {
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      timeZone: "Europe/Warsaw",
+    })
+  );
+};
+
+const getWeekday = (date: Date): string => {
+  switch (date.getDay()) {
+    case 0:
+      return "nd";
+    case 1:
+      return "pn";
+    case 2:
+      return "wt";
+    case 3:
+      return "śr";
+    case 4:
+      return "cz";
+    case 5:
+      return "pt";
+    case 6:
+      return "sb";
+  }
 };
