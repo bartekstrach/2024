@@ -31,225 +31,225 @@
     "id": "bet-5-GENIU",
     "matchId": "match-5-POL-NLD",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-6-GENIU",
     "matchId": "match-6-SVN-DNK",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-7-GENIU",
     "matchId": "match-7-SRB-ENG",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-8-GENIU",
     "matchId": "match-8-ROU-UKR",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-9-GENIU",
     "matchId": "match-9-BEL-SVK",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-10-GENIU",
     "matchId": "match-10-AUT-FRA",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 4
   },
   {
     "id": "bet-11-GENIU",
     "matchId": "match-11-TUR-GEO",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-12-GENIU",
     "matchId": "match-12-POR-CZE",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-13-GENIU",
     "matchId": "match-13-HRV-ALB",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-14-GENIU",
     "matchId": "match-14-DEU-HUN",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 4,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-15-GENIU",
     "matchId": "match-15-SCO-CHE",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-16-GENIU",
     "matchId": "match-16-SVN-SRB",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-17-GENIU",
     "matchId": "match-17-DNK-ENG",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-18-GENIU",
     "matchId": "match-18-ESP-ITA",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-19-GENIU",
     "matchId": "match-19-SVK-UKR",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-20-GENIU",
     "matchId": "match-20-POL-AUT",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-21-GENIU",
     "matchId": "match-21-NLD-FRA",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-22-GENIU",
     "matchId": "match-22-GEO-CZE",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-23-GENIU",
     "matchId": "match-23-TUR-POR",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-24-GENIU",
     "matchId": "match-24-BEL-ROU",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-25-GENIU",
     "matchId": "match-25-CHE-DEU",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 4
   },
   {
     "id": "bet-26-GENIU",
     "matchId": "match-26-SCO-HUN",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-27-GENIU",
     "matchId": "match-27-ALB-ESP",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-28-GENIU",
     "matchId": "match-28-HRV-ITA",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-29-GENIU",
     "matchId": "match-29-NLD-AUT",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-30-GENIU",
     "matchId": "match-30-FRA-POL",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 4,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-31-GENIU",
     "matchId": "match-31-ENG-SVN",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-32-GENIU",
     "matchId": "match-32-DNK-SRB",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-33-GENIU",
     "matchId": "match-33-SVK-ROU",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-34-GENIU",
     "matchId": "match-34-UKR-BEL",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-35-GENIU",
     "matchId": "match-35-GEO-POR",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-36-GENIU",
     "matchId": "match-36-CZE-TUR",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-37-GENIU",
