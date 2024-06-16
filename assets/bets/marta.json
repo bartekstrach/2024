@@ -129,127 +129,127 @@
     "id": "bet-19-MARTA",
     "matchId": "match-19-SVK-UKR",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-20-MARTA",
     "matchId": "match-20-POL-AUT",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-21-MARTA",
     "matchId": "match-21-NLD-FRA",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-22-MARTA",
     "matchId": "match-22-GEO-CZE",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-23-MARTA",
     "matchId": "match-23-TUR-POR",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-24-MARTA",
     "matchId": "match-24-BEL-ROU",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-25-MARTA",
     "matchId": "match-25-CHE-DEU",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-26-MARTA",
     "matchId": "match-26-SCO-HUN",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-27-MARTA",
     "matchId": "match-27-ALB-ESP",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-28-MARTA",
     "matchId": "match-28-HRV-ITA",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-29-MARTA",
     "matchId": "match-29-NLD-AUT",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-30-MARTA",
     "matchId": "match-30-FRA-POL",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-31-MARTA",
     "matchId": "match-31-ENG-SVN",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-32-MARTA",
     "matchId": "match-32-DNK-SRB",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-33-MARTA",
     "matchId": "match-33-SVK-ROU",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-34-MARTA",
     "matchId": "match-34-UKR-BEL",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-35-MARTA",
     "matchId": "match-35-GEO-POR",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-36-MARTA",
     "matchId": "match-36-CZE-TUR",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-37-MARTA",
