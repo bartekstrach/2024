@@ -51,8 +51,8 @@
     "stage": "GROUP",
     "group": "D",
     "dateTime": "2024-06-16T15:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "match-6-SVN-DNK",
