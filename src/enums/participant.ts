@@ -10,7 +10,7 @@ export enum PARTICIPANT {
   GENIU = "Geniu",
   GOSIA = "Gosia",
   JOLA_K = "Jola K.",
-  JOLA_P = "*Jola P.",
+  JOLA_P = "Jola P.",
   KASIA = "Kasia",
   KRZYSIU = "Krzysiu",
   MAGDA = "Magda & Julka",
