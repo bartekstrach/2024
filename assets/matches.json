@@ -106,8 +106,8 @@
     "stage": "GROUP",
     "group": "D",
     "dateTime": "2024-06-17T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "match-11-TUR-GEO",
