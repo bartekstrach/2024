@@ -84,8 +84,8 @@
     "stage": "GROUP",
     "group": "E",
     "dateTime": "2024-06-17T15:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "match-9-BEL-SVK",
