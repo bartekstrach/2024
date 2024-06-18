@@ -128,8 +128,8 @@
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-18T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "match-13-HRV-ALB",
