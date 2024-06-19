@@ -117,8 +117,8 @@
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-18T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "match-12-POR-CZE",
@@ -128,8 +128,8 @@
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-18T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "match-13-HRV-ALB",
@@ -139,8 +139,8 @@
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-19T15:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "match-14-DEU-HUN",
@@ -150,8 +150,8 @@
     "stage": "GROUP",
     "group": "A",
     "dateTime": "2024-06-19T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "match-15-SCO-CHE",
@@ -161,8 +161,8 @@
     "stage": "GROUP",
     "group": "A",
     "dateTime": "2024-06-19T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-16-SVN-SRB",
