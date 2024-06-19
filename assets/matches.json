@@ -139,8 +139,8 @@
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-19T15:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "match-14-DEU-HUN",
