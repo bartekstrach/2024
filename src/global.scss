@@ -1,7 +1,11 @@
 * {
   font-size: 14px;
   color: #2d2d2d;
-  font-family: Futura, Trebuchet MS, Arial, sans-serif;
+  font-family:
+    Futura,
+    Trebuchet MS,
+    Arial,
+    sans-serif;
 }
 
 html {
@@ -30,7 +34,8 @@ table {
   position: sticky;
 }
 
-td, th {
+td,
+th {
   border: 1px solid #ddd;
   text-align: left;
   padding: 8px;
@@ -61,8 +66,12 @@ thead > tr {
   width: 100%;
   max-width: 1000px;
 
-  >td {
+  > td {
     text-align: center;
+  }
+
+  .next-game {
+    width: fit-content;
   }
 }
 
@@ -82,7 +91,7 @@ thead > tr {
       background-color: #ccebeb;
     }
   }
-  
+
   tr:nth-child(even) {
     .final-score {
       background-color: #e0ffff;
@@ -93,7 +102,7 @@ thead > tr {
     text-align: center;
     min-width: 70px;
     padding: 8px;
-    
+
     .score {
       padding-right: 10px;
     }

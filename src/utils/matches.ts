@@ -37,4 +37,11 @@ const getLatestMatchText = (
   return `po meczu ${TEAM[homeTeam]} - ${TEAM[awayTeam]} (${format(dateTime)})`;
 };
 
-export { getLatestMatch, getLatestMatchText };
+const getNextMatches = (matches: Array<Match>): Array<Match> => {
+  const match = matches.find(
+    (m) => m?.goalsFor === null && m?.goalsAgainst === null,
+  );
+  return matches.filter((m) => m.dateTime === match.dateTime);
+};
+
+export { getLatestMatch, getLatestMatchText, getNextMatches };
