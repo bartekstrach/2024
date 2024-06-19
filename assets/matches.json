@@ -161,8 +161,8 @@
     "stage": "GROUP",
     "group": "A",
     "dateTime": "2024-06-19T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-16-SVN-SRB",
