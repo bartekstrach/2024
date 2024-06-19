@@ -150,8 +150,8 @@
     "stage": "GROUP",
     "group": "A",
     "dateTime": "2024-06-19T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "match-15-SCO-CHE",
