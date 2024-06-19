@@ -75,6 +75,37 @@ const getScoreboard = (
   return assignedRangs;
 };
 
+const getAlternativeBetPoints = (bet: Bet, match: Match): number => {
+  let sum = POINTS.ZERO;
+
+  if (
+    match.goalsFor === undefined ||
+    match.goalsFor === null ||
+    match.goalsAgainst === undefined ||
+    match.goalsAgainst === null ||
+    bet.goalsFor === undefined ||
+    bet.goalsFor === null ||
+    bet.goalsAgainst === undefined ||
+    bet.goalsAgainst === null
+  )
+    return sum;
+
+  if (bet.goalsFor === match.goalsFor) sum += 2;
+
+  if (bet.goalsAgainst === match.goalsAgainst) sum += 2;
+
+  if (bet.goalsFor - bet.goalsAgainst === match.goalsFor - match.goalsAgainst)
+    sum += 3;
+
+  if (
+    bet.goalsFor === match.goalsFor &&
+    bet.goalsAgainst === match.goalsAgainst
+  )
+    sum += 3;
+
+  return sum;
+};
+
 const getBetPoints = (bet: Bet, match: Match): POINTS => {
   if (
     match.goalsFor === undefined ||
