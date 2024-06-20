@@ -194,8 +194,8 @@
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-20T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "match-19-SVK-UKR",
