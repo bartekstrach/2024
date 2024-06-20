@@ -17,7 +17,6 @@ const Scoreboard = ({ bets, matches, scoreboard }: Props) => {
 
   let previousRank: number;
   const next = getNextMatches(matches);
-  console.log(next);
 
   const getParticipantNextMatchBet = (
     participant: string,
