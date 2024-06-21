@@ -216,8 +216,8 @@
     "stage": "GROUP",
     "group": "D",
     "dateTime": "2024-06-21T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "match-21-NLD-FRA",
