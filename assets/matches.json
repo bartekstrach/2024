@@ -227,8 +227,8 @@
     "stage": "GROUP",
     "group": "D",
     "dateTime": "2024-06-21T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-22-GEO-CZE",
