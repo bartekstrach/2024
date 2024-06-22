@@ -249,8 +249,8 @@
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-22T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 3
   },
   {
     "id": "match-24-BEL-ROU",
