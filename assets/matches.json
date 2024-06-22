@@ -260,8 +260,8 @@
     "stage": "GROUP",
     "group": "E",
     "dateTime": "2024-06-22T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "match-25-CHE-DEU",
