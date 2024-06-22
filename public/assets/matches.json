@@ -183,8 +183,8 @@
     "stage": "GROUP",
     "group": "C",
     "dateTime": "2024-06-20T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-18-ESP-ITA",
@@ -194,8 +194,8 @@
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-20T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "match-19-SVK-UKR",
@@ -205,8 +205,8 @@
     "stage": "GROUP",
     "group": "E",
     "dateTime": "2024-06-21T15:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "match-20-POL-AUT",
@@ -216,8 +216,8 @@
     "stage": "GROUP",
     "group": "D",
     "dateTime": "2024-06-21T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "match-21-NLD-FRA",
@@ -227,8 +227,8 @@
     "stage": "GROUP",
     "group": "D",
     "dateTime": "2024-06-21T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-22-GEO-CZE",
@@ -238,8 +238,8 @@
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-22T15:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-23-TUR-POR",
