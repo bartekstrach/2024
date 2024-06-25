@@ -337,8 +337,8 @@
     "stage": "GROUP",
     "group": "C",
     "dateTime": "2024-06-25T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-32-DNK-SRB",
@@ -348,8 +348,8 @@
     "stage": "GROUP",
     "group": "C",
     "dateTime": "2024-06-25T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-33-SVK-ROU",
