@@ -78,6 +78,8 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
                   {participants.map((participant) => (
                     <th key={participant}>{PARTICIPANT[participant]}</th>
                   ))}
+                  <th />
+                  <th />
                 </tr>
               )}
               <tr key={match?.id}>
