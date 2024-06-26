@@ -249,8 +249,8 @@
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-22T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 3
   },
   {
     "id": "match-24-BEL-ROU",
@@ -260,8 +260,8 @@
     "stage": "GROUP",
     "group": "E",
     "dateTime": "2024-06-22T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "match-25-CHE-DEU",
@@ -271,8 +271,8 @@
     "stage": "GROUP",
     "group": "A",
     "dateTime": "2024-06-23T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-26-SCO-HUN",
@@ -282,8 +282,8 @@
     "stage": "GROUP",
     "group": "A",
     "dateTime": "2024-06-23T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "match-27-ALB-ESP",
@@ -293,8 +293,8 @@
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-24T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "match-28-HRV-ITA",
@@ -304,8 +304,8 @@
     "stage": "GROUP",
     "group": "B",
     "dateTime": "2024-06-24T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-29-NLD-AUT",
@@ -315,8 +315,8 @@
     "stage": "GROUP",
     "group": "D",
     "dateTime": "2024-06-25T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 3
   },
   {
     "id": "match-30-FRA-POL",
@@ -326,8 +326,8 @@
     "stage": "GROUP",
     "group": "D",
     "dateTime": "2024-06-25T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-31-ENG-SVN",
@@ -337,8 +337,8 @@
     "stage": "GROUP",
     "group": "C",
     "dateTime": "2024-06-25T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-32-DNK-SRB",
@@ -348,8 +348,8 @@
     "stage": "GROUP",
     "group": "C",
     "dateTime": "2024-06-25T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-33-SVK-ROU",
@@ -359,8 +359,8 @@
     "stage": "GROUP",
     "group": "E",
     "dateTime": "2024-06-26T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-34-UKR-BEL",
@@ -370,8 +370,8 @@
     "stage": "GROUP",
     "group": "E",
     "dateTime": "2024-06-26T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-35-GEO-POR",
