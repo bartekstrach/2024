@@ -359,8 +359,8 @@
     "stage": "GROUP",
     "group": "E",
     "dateTime": "2024-06-26T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-34-UKR-BEL",
@@ -370,8 +370,8 @@
     "stage": "GROUP",
     "group": "E",
     "dateTime": "2024-06-26T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-35-GEO-POR",
