@@ -396,10 +396,10 @@
     "goalsAgainst": 2
   },
   {
-    "id": "match-38-2A-2B",
-    "matchNo": 38,
-    "homeTeam": "2A",
-    "awayTeam": "2B",
+    "id": "match-37-CHE-ITA",
+    "matchNo": 37,
+    "homeTeam": "CHE",
+    "awayTeam": "ITA",
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-29T18:00:00+02:00",
@@ -407,10 +407,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-37-1A-2C",
-    "matchNo": 37,
-    "homeTeam": "1A",
-    "awayTeam": "2C",
+    "id": "match-38-DEU-DNK",
+    "matchNo": 38,
+    "homeTeam": "DEU",
+    "awayTeam": "DNK",
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-29T21:00:00+02:00",
@@ -418,10 +418,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-40-1C-3DEF",
-    "matchNo": 40,
-    "homeTeam": "1C",
-    "awayTeam": "3D/E/F",
+    "id": "match-39-ENG-SVK",
+    "matchNo": 39,
+    "homeTeam": "ENG",
+    "awayTeam": "SVK",
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-30T18:00:00+02:00",
@@ -429,10 +429,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-39-1B-3ADEF",
-    "matchNo": 39,
-    "homeTeam": "1B",
-    "awayTeam": "3A/D/E/F",
+    "id": "match-40-ESP-GEO",
+    "matchNo": 40,
+    "homeTeam": "ESP",
+    "awayTeam": "GEO",
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-30T21:00:00+02:00",
@@ -440,10 +440,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-42-2D-2E",
-    "matchNo": 42,
-    "homeTeam": "2D",
-    "awayTeam": "2E",
+    "id": "match-41-FRA-BEL",
+    "matchNo": 41,
+    "homeTeam": "FRA",
+    "awayTeam": "BEL",
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-01T18:00:00+02:00",
@@ -451,10 +451,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-41-1F-3ABC",
-    "matchNo": 41,
-    "homeTeam": "1F",
-    "awayTeam": "3A/B/C",
+    "id": "match-42-POR-SVN",
+    "matchNo": 42,
+    "homeTeam": "POR",
+    "awayTeam": "SVN",
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-01T21:00:00+02:00",
@@ -462,10 +462,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-43-1E-3ABCD",
+    "id": "match-43-ROU-NLD",
     "matchNo": 43,
-    "homeTeam": "1E",
-    "awayTeam": "3A/B/C/D",
+    "homeTeam": "ROU",
+    "awayTeam": "NLD",
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-02T18:00:00+02:00",
@@ -473,10 +473,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-44-1D-2F",
+    "id": "match-44-AUT-TUR",
     "matchNo": 44,
-    "homeTeam": "1D",
-    "awayTeam": "2F",
+    "homeTeam": "AUT",
+    "awayTeam": "TUR",
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-02T21:00:00+02:00",
