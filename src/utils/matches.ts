@@ -41,7 +41,12 @@ const getNextMatches = (matches: Array<Match>): Array<Match> => {
   const match = matches.find(
     (m) => m?.goalsFor === null && m?.goalsAgainst === null,
   );
-  return matches.filter((m) => m.dateTime === match.dateTime);
+  return matches.filter(
+    (m) =>
+      m.dateTime === match.dateTime &&
+      m.goalsFor !== null &&
+      m.goalsAgainst !== null,
+  );
 };
 
 export { getLatestMatch, getLatestMatchText, getNextMatches };

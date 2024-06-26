@@ -38,11 +38,12 @@ const Scoreboard = ({ bets, matches, scoreboard }: Props) => {
           <th className="rank">Miejsce</th>
           <th className="participant">Imię</th>
           <th className="points">Punkty</th>
-          {next.map((m) => (
-            <th className="next-game">
-              Typ na mecz {TEAM[m.homeTeam]} - {TEAM[m.awayTeam]}
-            </th>
-          ))}
+          {next.length > 0 &&
+            next.map((m) => (
+              <th className="next-game">
+                Typ na mecz {TEAM[m.homeTeam]} - {TEAM[m.awayTeam]}
+              </th>
+            ))}
         </tr>
       </thead>
       <tbody>
@@ -59,11 +60,12 @@ const Scoreboard = ({ bets, matches, scoreboard }: Props) => {
               </td>
               <td className="participant">{PARTICIPANT[participant]}</td>
               <td className="points">{points}</td>
-              {next.map((m) => (
-                <td className="next-game">
-                  {getParticipantNextMatchBet(participant, bets, m.id)}
-                </td>
-              ))}
+              {next.length > 0 &&
+                next.map((m) => (
+                  <td className="next-game">
+                    {getParticipantNextMatchBet(participant, bets, m.id)}
+                  </td>
+                ))}
             </tr>
           );
         })}
