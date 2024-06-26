@@ -381,8 +381,8 @@
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-26T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "match-36-CZE-TUR",
@@ -392,8 +392,8 @@
     "stage": "GROUP",
     "group": "F",
     "dateTime": "2024-06-26T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "match-38-2A-2B",
