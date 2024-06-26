@@ -68,7 +68,7 @@ const BetMatrix = ({ bets, matches, scoreboard }: Props) => {
             <>
               {(match?.matchNo === 13 ||
                 match?.matchNo === 25 ||
-                match?.matchNo === 38 ||
+                match?.matchNo === 37 ||
                 match?.matchNo === 45) && (
                 <tr>
                   <th />
