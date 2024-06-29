@@ -255,57 +255,57 @@
     "id": "bet-37-MICHAL",
     "matchId": "match-38-DEU-DNK",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-38-MICHAL",
     "matchId": "match-37-CHE-ITA",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-39-MICHAL",
     "matchId": "match-40-ESP-GEO",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-40-MICHAL",
     "matchId": "match-39-ENG-SVK",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-41-MICHAL",
     "matchId": "match-42-POR-SVN",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-42-MICHAL",
     "matchId": "match-41-FRA-BEL",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-MICHAL",
     "matchId": "match-43-ROU-NLD",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-44-MICHAL",
     "matchId": "match-44-AUT-TUR",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-45-MICHAL",

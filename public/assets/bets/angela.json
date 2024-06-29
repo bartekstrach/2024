@@ -255,57 +255,57 @@
     "id": "bet-37-ANGELA",
     "matchId": "match-38-DEU-DNK",
     "participant": "ANGELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-38-ANGELA",
     "matchId": "match-37-CHE-ITA",
     "participant": "ANGELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-39-ANGELA",
     "matchId": "match-40-ESP-GEO",
     "participant": "ANGELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-40-ANGELA",
     "matchId": "match-39-ENG-SVK",
     "participant": "ANGELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-41-ANGELA",
     "matchId": "match-42-POR-SVN",
     "participant": "ANGELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-42-ANGELA",
     "matchId": "match-41-FRA-BEL",
     "participant": "ANGELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-ANGELA",
     "matchId": "match-43-ROU-NLD",
     "participant": "ANGELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-44-ANGELA",
     "matchId": "match-44-AUT-TUR",
     "participant": "ANGELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-45-ANGELA",

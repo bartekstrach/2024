@@ -255,57 +255,57 @@
     "id": "bet-37-ELA",
     "matchId": "match-38-DEU-DNK",
     "participant": "ELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-38-ELA",
     "matchId": "match-37-CHE-ITA",
     "participant": "ELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-39-ELA",
     "matchId": "match-40-ESP-GEO",
     "participant": "ELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-40-ELA",
     "matchId": "match-39-ENG-SVK",
     "participant": "ELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-41-ELA",
     "matchId": "match-42-POR-SVN",
     "participant": "ELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-42-ELA",
     "matchId": "match-41-FRA-BEL",
     "participant": "ELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-ELA",
     "matchId": "match-43-ROU-NLD",
     "participant": "ELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-44-ELA",
     "matchId": "match-44-AUT-TUR",
     "participant": "ELA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-45-ELA",

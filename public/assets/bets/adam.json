@@ -255,57 +255,57 @@
     "id": "bet-37-ADAM",
     "matchId": "match-38-DEU-DNK",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-38-ADAM",
     "matchId": "match-37-CHE-ITA",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-39-ADAM",
     "matchId": "match-40-ESP-GEO",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-40-ADAM",
     "matchId": "match-39-ENG-SVK",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-41-ADAM",
     "matchId": "match-42-POR-SVN",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-42-ADAM",
     "matchId": "match-41-FRA-BEL",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-ADAM",
     "matchId": "match-43-ROU-NLD",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-44-ADAM",
     "matchId": "match-44-AUT-TUR",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-45-ADAM",

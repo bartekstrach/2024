@@ -255,57 +255,57 @@
     "id": "bet-37-BARTEK",
     "matchId": "match-38-DEU-DNK",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-38-BARTEK",
     "matchId": "match-37-CHE-ITA",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-39-BARTEK",
     "matchId": "match-40-ESP-GEO",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-40-BARTEK",
     "matchId": "match-39-ENG-SVK",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-41-BARTEK",
     "matchId": "match-42-POR-SVN",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-42-BARTEK",
     "matchId": "match-41-FRA-BEL",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-BARTEK",
     "matchId": "match-43-ROU-NLD",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-44-BARTEK",
     "matchId": "match-44-AUT-TUR",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-45-BARTEK",

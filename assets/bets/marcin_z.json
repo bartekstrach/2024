@@ -255,57 +255,57 @@
     "id": "bet-37-MARCIN_Z",
     "matchId": "match-38-DEU-DNK",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-38-MARCIN_Z",
     "matchId": "match-37-CHE-ITA",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-39-MARCIN_Z",
     "matchId": "match-40-ESP-GEO",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 4,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-40-MARCIN_Z",
     "matchId": "match-39-ENG-SVK",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-41-MARCIN_Z",
     "matchId": "match-42-POR-SVN",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-42-MARCIN_Z",
     "matchId": "match-41-FRA-BEL",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-MARCIN_Z",
     "matchId": "match-43-ROU-NLD",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-44-MARCIN_Z",
     "matchId": "match-44-AUT-TUR",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-45-MARCIN_Z",

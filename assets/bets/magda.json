@@ -255,57 +255,57 @@
     "id": "bet-37-MAGDA",
     "matchId": "match-38-DEU-DNK",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-38-MAGDA",
     "matchId": "match-37-CHE-ITA",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-39-MAGDA",
     "matchId": "match-40-ESP-GEO",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-40-MAGDA",
     "matchId": "match-39-ENG-SVK",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-41-MAGDA",
     "matchId": "match-42-POR-SVN",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-42-MAGDA",
     "matchId": "match-41-FRA-BEL",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-43-MAGDA",
     "matchId": "match-43-ROU-NLD",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-44-MAGDA",
     "matchId": "match-44-AUT-TUR",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-45-MAGDA",
