@@ -255,57 +255,57 @@
     "id": "bet-37-ALICJA",
     "matchId": "match-38-DEU-DNK",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-38-ALICJA",
     "matchId": "match-37-CHE-ITA",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-39-ALICJA",
     "matchId": "match-40-ESP-GEO",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-40-ALICJA",
     "matchId": "match-39-ENG-SVK",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-41-ALICJA",
     "matchId": "match-42-POR-SVN",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-42-ALICJA",
     "matchId": "match-41-FRA-BEL",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-ALICJA",
     "matchId": "match-43-ROU-NLD",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-44-ALICJA",
     "matchId": "match-44-AUT-TUR",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-45-ALICJA",

@@ -255,57 +255,57 @@
     "id": "bet-37-GOSIA",
     "matchId": "match-38-DEU-DNK",
     "participant": "GOSIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-38-GOSIA",
     "matchId": "match-37-CHE-ITA",
     "participant": "GOSIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-39-GOSIA",
     "matchId": "match-40-ESP-GEO",
     "participant": "GOSIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-40-GOSIA",
     "matchId": "match-39-ENG-SVK",
     "participant": "GOSIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-41-GOSIA",
     "matchId": "match-42-POR-SVN",
     "participant": "GOSIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-42-GOSIA",
     "matchId": "match-41-FRA-BEL",
     "participant": "GOSIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-GOSIA",
     "matchId": "match-43-ROU-NLD",
     "participant": "GOSIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-44-GOSIA",
     "matchId": "match-44-AUT-TUR",
     "participant": "GOSIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-45-GOSIA",

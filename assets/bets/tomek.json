@@ -255,57 +255,57 @@
     "id": "bet-37-TOMEK",
     "matchId": "match-38-DEU-DNK",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-38-TOMEK",
     "matchId": "match-37-CHE-ITA",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-39-TOMEK",
     "matchId": "match-40-ESP-GEO",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 4,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-40-TOMEK",
     "matchId": "match-39-ENG-SVK",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-41-TOMEK",
     "matchId": "match-42-POR-SVN",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-42-TOMEK",
     "matchId": "match-41-FRA-BEL",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-43-TOMEK",
     "matchId": "match-43-ROU-NLD",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-44-TOMEK",
     "matchId": "match-44-AUT-TUR",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-45-TOMEK",

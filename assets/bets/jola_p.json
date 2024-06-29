@@ -255,57 +255,57 @@
     "id": "bet-37-JOLA_P",
     "matchId": "match-38-DEU-DNK",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-38-JOLA_P",
     "matchId": "match-37-CHE-ITA",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-39-JOLA_P",
     "matchId": "match-40-ESP-GEO",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-40-JOLA_P",
     "matchId": "match-39-ENG-SVK",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-41-JOLA_P",
     "matchId": "match-42-POR-SVN",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-42-JOLA_P",
     "matchId": "match-41-FRA-BEL",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-43-JOLA_P",
     "matchId": "match-43-ROU-NLD",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-44-JOLA_P",
     "matchId": "match-44-AUT-TUR",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-45-JOLA_P",
