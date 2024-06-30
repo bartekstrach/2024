@@ -425,8 +425,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-30T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-40-ESP-GEO",
