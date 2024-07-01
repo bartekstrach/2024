@@ -458,8 +458,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-01T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-43-ROU-NLD",
