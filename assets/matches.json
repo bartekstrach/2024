@@ -480,14 +480,14 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-02T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
-    "id": "match-45-W39-W37",
+    "id": "match-45-ESP-DEU",
     "matchNo": 45,
-    "homeTeam": "W39",
-    "awayTeam": "W37",
+    "homeTeam": "ESP",
+    "awayTeam": "DEU",
     "stage": "QUARTER",
     "group": null,
     "dateTime": "2024-07-05T18:00:00+02:00",
@@ -495,10 +495,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-46-W41-W42",
+    "id": "match-46-POR-FRA",
     "matchNo": 46,
-    "homeTeam": "W41",
-    "awayTeam": "W42",
+    "homeTeam": "POR",
+    "awayTeam": "FRA",
     "stage": "QUARTER",
     "group": null,
     "dateTime": "2024-07-05T21:00:00+02:00",
@@ -506,10 +506,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-48-W40-W38",
+    "id": "match-48-ENG-CHE",
     "matchNo": 48,
-    "homeTeam": "W40",
-    "awayTeam": "W38",
+    "homeTeam": "ENG",
+    "awayTeam": "CHE",
     "stage": "QUARTER",
     "group": null,
     "dateTime": "2024-07-06T18:00:00+02:00",
@@ -517,10 +517,10 @@
     "goalsAgainst": null
   },
   {
-    "id": "match-47-W43-W44",
+    "id": "match-47-NLD-TUR",
     "matchNo": 47,
-    "homeTeam": "W43",
-    "awayTeam": "W44",
+    "homeTeam": "NLD",
+    "awayTeam": "TUR",
     "stage": "QUARTER",
     "group": null,
     "dateTime": "2024-07-06T21:00:00+02:00",
