@@ -403,8 +403,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-29T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "match-38-DEU-DNK",
@@ -414,8 +414,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-29T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "match-39-ENG-SVK",
@@ -425,8 +425,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-30T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-40-ESP-GEO",
@@ -436,8 +436,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-06-30T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 4,
+    "goalsAgainst": 1
   },
   {
     "id": "match-41-FRA-BEL",
@@ -447,8 +447,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-01T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "match-42-POR-SVN",
@@ -458,8 +458,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-01T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-43-ROU-NLD",
@@ -469,8 +469,8 @@
     "stage": "ROUND_OF_16",
     "group": null,
     "dateTime": "2024-07-02T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 3
   },
   {
     "id": "match-44-AUT-TUR",
