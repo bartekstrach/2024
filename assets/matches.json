@@ -491,8 +491,8 @@
     "stage": "QUARTER",
     "group": null,
     "dateTime": "2024-07-05T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-46-POR-FRA",
