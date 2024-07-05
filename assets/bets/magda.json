@@ -311,15 +311,15 @@
     "id": "bet-45-MAGDA",
     "matchId": "match-45-ESP-DEU",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-46-MAGDA",
     "matchId": "match-46-POR-FRA",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-47-MAGDA",
