@@ -311,29 +311,29 @@
     "id": "bet-45-ADAM",
     "matchId": "match-45-ESP-DEU",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-46-ADAM",
     "matchId": "match-46-POR-FRA",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-47-ADAM",
     "matchId": "match-47-NLD-TUR",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-48-ADAM",
     "matchId": "match-48-ENG-CHE",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-49-ADAM",
