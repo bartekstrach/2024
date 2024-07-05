@@ -311,29 +311,29 @@
     "id": "bet-45-KRZYSIU",
     "matchId": "match-45-ESP-DEU",
     "participant": "KRZYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 3
   },
   {
     "id": "bet-46-KRZYSIU",
     "matchId": "match-46-POR-FRA",
     "participant": "KRZYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-47-KRZYSIU",
     "matchId": "match-47-NLD-TUR",
     "participant": "KRZYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-48-KRZYSIU",
     "matchId": "match-48-ENG-CHE",
     "participant": "KRZYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-49-KRZYSIU",

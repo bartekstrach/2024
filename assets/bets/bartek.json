@@ -311,29 +311,29 @@
     "id": "bet-45-BARTEK",
     "matchId": "match-45-ESP-DEU",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-46-BARTEK",
     "matchId": "match-46-POR-FRA",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-47-BARTEK",
     "matchId": "match-47-NLD-TUR",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-48-BARTEK",
     "matchId": "match-48-ENG-CHE",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-49-BARTEK",

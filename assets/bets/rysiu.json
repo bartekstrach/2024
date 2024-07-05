@@ -311,29 +311,29 @@
     "id": "bet-45-RYSIU",
     "matchId": "match-45-ESP-DEU",
     "participant": "RYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-46-RYSIU",
     "matchId": "match-46-POR-FRA",
     "participant": "RYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-47-RYSIU",
     "matchId": "match-47-NLD-TUR",
     "participant": "RYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-48-RYSIU",
     "matchId": "match-48-ENG-CHE",
     "participant": "RYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-49-RYSIU",
