@@ -502,8 +502,8 @@
     "stage": "QUARTER",
     "group": null,
     "dateTime": "2024-07-05T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 0,
+    "goalsAgainst": 0
   },
   {
     "id": "match-49-W45-W46",
