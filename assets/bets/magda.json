@@ -325,15 +325,15 @@
     "id": "bet-47-MAGDA",
     "matchId": "match-47-NLD-TUR",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-48-MAGDA",
     "matchId": "match-48-ENG-CHE",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-49-MAGDA",
