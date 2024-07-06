@@ -506,6 +506,28 @@
     "goalsAgainst": 0
   },
   {
+    "id": "match-48-ENG-CHE",
+    "matchNo": 48,
+    "homeTeam": "ENG",
+    "awayTeam": "CHE",
+    "stage": "QUARTER",
+    "group": null,
+    "dateTime": "2024-07-06T18:00:00+02:00",
+    "goalsFor": null,
+    "goalsAgainst": null
+  },
+  {
+    "id": "match-47-NLD-TUR",
+    "matchNo": 47,
+    "homeTeam": "NLD",
+    "awayTeam": "TUR",
+    "stage": "QUARTER",
+    "group": null,
+    "dateTime": "2024-07-06T21:00:00+02:00",
+    "goalsFor": null,
+    "goalsAgainst": null
+  },
+  {
     "id": "match-49-W45-W46",
     "matchNo": 49,
     "homeTeam": "W45",
