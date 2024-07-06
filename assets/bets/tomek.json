@@ -325,15 +325,15 @@
     "id": "bet-47-TOMEK",
     "matchId": "match-47-NLD-TUR",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-48-TOMEK",
     "matchId": "match-48-ENG-CHE",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-49-TOMEK",
