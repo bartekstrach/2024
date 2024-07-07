@@ -325,15 +325,15 @@
     "id": "bet-47-ALICJA",
     "matchId": "match-47-NLD-TUR",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-48-ALICJA",
     "matchId": "match-48-ENG-CHE",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-49-ALICJA",

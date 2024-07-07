@@ -513,8 +513,8 @@
     "stage": "QUARTER",
     "group": null,
     "dateTime": "2024-07-06T18:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "match-47-NLD-TUR",
@@ -524,8 +524,8 @@
     "stage": "QUARTER",
     "group": null,
     "dateTime": "2024-07-06T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "match-49-W45-W46",
