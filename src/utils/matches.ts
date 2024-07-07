@@ -38,15 +38,8 @@ const getLatestMatchText = (
 };
 
 const getNextMatches = (matches: Array<Match>): Array<Match> => {
-  const match = matches.find(
-    (m) => m?.goalsFor === null && m?.goalsAgainst === null,
-  );
-  return matches.filter(
-    (m) =>
-      m.dateTime === match.dateTime &&
-      m.goalsFor !== null &&
-      m.goalsAgainst !== null,
-  );
+  const match = matches.find((m) => m?.matchNo === 49 || m?.matchNo === 50);
+  return matches.filter((m) => m.dateTime === match.dateTime);
 };
 
 export { getLatestMatch, getLatestMatchText, getNextMatches };

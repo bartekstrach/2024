@@ -28,7 +28,7 @@ const Scoreboard = ({ bets, matches, scoreboard }: Props) => {
         ?.find((b) => b.participant === participant)
         ?.bets.filter((b) => b.matchId === matchId)[0] ?? null;
 
-    return `${bet.goalsFor}  :  ${bet.goalsAgainst}`;
+    return `${bet.goalsFor ?? "-"}  :  ${bet.goalsAgainst ?? "-"}`;
   };
 
   return (
