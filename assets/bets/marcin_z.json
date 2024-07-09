@@ -339,15 +339,15 @@
     "id": "bet-49-MARCIN_Z",
     "matchId": "match-49-W45-W46",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-50-MARCIN_Z",
     "matchId": "match-50-W47-W48",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-51-MARCIN_Z",

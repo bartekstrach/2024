@@ -339,15 +339,15 @@
     "id": "bet-49-MAGDA",
     "matchId": "match-49-W45-W46",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-50-MAGDA",
     "matchId": "match-50-W47-W48",
     "participant": "MAGDA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-51-MAGDA",

@@ -339,15 +339,15 @@
     "id": "bet-49-JOLA_P",
     "matchId": "match-49-W45-W46",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-50-JOLA_P",
     "matchId": "match-50-W47-W48",
     "participant": "JOLA_P",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-51-JOLA_P",

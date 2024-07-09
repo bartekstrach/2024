@@ -339,15 +339,15 @@
     "id": "bet-49-GENIU",
     "matchId": "match-49-W45-W46",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-50-GENIU",
     "matchId": "match-50-W47-W48",
     "participant": "GENIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-51-GENIU",
