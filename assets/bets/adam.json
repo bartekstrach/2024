@@ -339,15 +339,15 @@
     "id": "bet-49-ADAM",
     "matchId": "match-49-W45-W46",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-50-ADAM",
     "matchId": "match-50-W47-W48",
     "participant": "ADAM",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-51-ADAM",

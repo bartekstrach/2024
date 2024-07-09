@@ -339,15 +339,15 @@
     "id": "bet-49-MICHAL",
     "matchId": "match-49-W45-W46",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-50-MICHAL",
     "matchId": "match-50-W47-W48",
     "participant": "MICHAL",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 2
   },
   {
     "id": "bet-51-MICHAL",

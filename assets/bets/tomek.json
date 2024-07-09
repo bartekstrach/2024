@@ -339,15 +339,15 @@
     "id": "bet-49-TOMEK",
     "matchId": "match-49-W45-W46",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-50-TOMEK",
     "matchId": "match-50-W47-W48",
     "participant": "TOMEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   },
   {
     "id": "bet-51-TOMEK",

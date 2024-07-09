@@ -339,15 +339,15 @@
     "id": "bet-49-DAMIAN",
     "matchId": "match-49-W45-W46",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-50-DAMIAN",
     "matchId": "match-50-W47-W48",
     "participant": "DAMIAN",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   },
   {
     "id": "bet-51-DAMIAN",
