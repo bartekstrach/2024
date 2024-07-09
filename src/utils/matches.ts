@@ -38,7 +38,7 @@ const getLatestMatchText = (
 };
 
 const getNextMatches = (matches: Array<Match>): Array<Match> => {
-  const match = matches.find((m) => m?.matchNo === 49 || m?.matchNo === 50);
+  const match = matches.find((m) => m?.matchNo === 50);
   return matches.filter((m) => m.dateTime === match.dateTime);
 };
 
