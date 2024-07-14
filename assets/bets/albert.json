@@ -353,7 +353,7 @@
     "id": "bet-51-ALBERT",
     "matchId": "match-51-W49-W50",
     "participant": "ALBERT",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 0
   }
 ]

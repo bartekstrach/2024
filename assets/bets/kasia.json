@@ -353,7 +353,7 @@
     "id": "bet-51-KASIA",
     "matchId": "match-51-W49-W50",
     "participant": "KASIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   }
 ]
