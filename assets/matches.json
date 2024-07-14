@@ -546,8 +546,8 @@
     "stage": "SEMI",
     "group": null,
     "dateTime": "2024-07-10T21:00:00+02:00",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 2
   },
   {
     "id": "match-51-W49-W50",
