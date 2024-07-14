@@ -353,7 +353,7 @@
     "id": "bet-51-ALICJA",
     "matchId": "match-51-W49-W50",
     "participant": "ALICJA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   }
 ]

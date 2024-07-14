@@ -353,7 +353,7 @@
     "id": "bet-51-MARCIN_Z",
     "matchId": "match-51-W49-W50",
     "participant": "MARCIN_Z",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   }
 ]

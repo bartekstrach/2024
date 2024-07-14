@@ -353,7 +353,7 @@
     "id": "bet-51-RYSIU",
     "matchId": "match-51-W49-W50",
     "participant": "RYSIU",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 0
   }
 ]

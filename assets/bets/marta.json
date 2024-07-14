@@ -353,7 +353,7 @@
     "id": "bet-51-MARTA",
     "matchId": "match-51-W49-W50",
     "participant": "MARTA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 1
   }
 ]

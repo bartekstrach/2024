@@ -353,7 +353,7 @@
     "id": "bet-51-DOMCIA",
     "matchId": "match-51-W49-W50",
     "participant": "DOMCIA",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 3,
+    "goalsAgainst": 1
   }
 ]

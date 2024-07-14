@@ -353,7 +353,7 @@
     "id": "bet-51-BARTEK",
     "matchId": "match-51-W49-W50",
     "participant": "BARTEK",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 2,
+    "goalsAgainst": 0
   }
 ]

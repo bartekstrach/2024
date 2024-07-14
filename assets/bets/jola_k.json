@@ -353,7 +353,7 @@
     "id": "bet-51-JOLA_K",
     "matchId": "match-51-W49-W50",
     "participant": "JOLA_K",
-    "goalsFor": null,
-    "goalsAgainst": null
+    "goalsFor": 1,
+    "goalsAgainst": 1
   }
 ]
